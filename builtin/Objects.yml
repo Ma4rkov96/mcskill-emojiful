@@ -1,0 +1,1312 @@
+- 
+   name: eyeglasses
+   location: assets/Objects/eyeglasses.png
+   strings: 
+   - ':eyeglasses:'
+- 
+   name: dark_sunglasses
+   location: assets/Objects/dark_sunglasses.png
+   strings: 
+   - ':dark_sunglasses:'
+- 
+   name: goggles
+   location: assets/Objects/goggles.png
+   strings: 
+   - ':goggles:'
+- 
+   name: lab_coat
+   location: assets/Objects/lab_coat.png
+   strings: 
+   - ':lab_coat:'
+- 
+   name: safety_vest
+   location: assets/Objects/safety_vest.png
+   strings: 
+   - ':safety_vest:'
+- 
+   name: necktie
+   location: assets/Objects/necktie.png
+   strings: 
+   - ':necktie:'
+- 
+   name: shirt
+   location: assets/Objects/shirt.png
+   strings: 
+   - ':shirt:'
+   - ':tshirt:'
+- 
+   name: jeans
+   location: assets/Objects/jeans.png
+   strings: 
+   - ':jeans:'
+- 
+   name: scarf
+   location: assets/Objects/scarf.png
+   strings: 
+   - ':scarf:'
+- 
+   name: gloves
+   location: assets/Objects/gloves.png
+   strings: 
+   - ':gloves:'
+- 
+   name: coat
+   location: assets/Objects/coat.png
+   strings: 
+   - ':coat:'
+- 
+   name: socks
+   location: assets/Objects/socks.png
+   strings: 
+   - ':socks:'
+- 
+   name: dress
+   location: assets/Objects/dress.png
+   strings: 
+   - ':dress:'
+- 
+   name: kimono
+   location: assets/Objects/kimono.png
+   strings: 
+   - ':kimono:'
+- 
+   name: sari
+   location: assets/Objects/sari.png
+   strings: 
+   - ':sari:'
+- 
+   name: one_piece_swimsuit
+   location: assets/Objects/one_piece_swimsuit.png
+   strings: 
+   - ':one-piece_swimsuit:'
+- 
+   name: briefs
+   location: assets/Objects/briefs.png
+   strings: 
+   - ':briefs:'
+- 
+   name: shorts
+   location: assets/Objects/shorts.png
+   strings: 
+   - ':shorts:'
+- 
+   name: bikini
+   location: assets/Objects/bikini.png
+   strings: 
+   - ':bikini:'
+- 
+   name: womans_clothes
+   location: assets/Objects/womans_clothes.png
+   strings: 
+   - ':womans_clothes:'
+- 
+   name: folding_hand_fan
+   location: assets/Objects/folding_hand_fan.png
+   strings: 
+   - ':folding_hand_fan:'
+- 
+   name: purse
+   location: assets/Objects/purse.png
+   strings: 
+   - ':purse:'
+- 
+   name: handbag
+   location: assets/Objects/handbag.png
+   strings: 
+   - ':handbag:'
+- 
+   name: pouch
+   location: assets/Objects/pouch.png
+   strings: 
+   - ':pouch:'
+- 
+   name: shopping_bags
+   location: assets/Objects/shopping_bags.png
+   strings: 
+   - ':shopping_bags:'
+- 
+   name: school_satchel
+   location: assets/Objects/school_satchel.png
+   strings: 
+   - ':school_satchel:'
+- 
+   name: thong_sandal
+   location: assets/Objects/thong_sandal.png
+   strings: 
+   - ':thong_sandal:'
+- 
+   name: mans_shoe
+   location: assets/Objects/mans_shoe.png
+   strings: 
+   - ':mans_shoe:'
+   - ':shoe:'
+- 
+   name: athletic_shoe
+   location: assets/Objects/athletic_shoe.png
+   strings: 
+   - ':athletic_shoe:'
+- 
+   name: hiking_boot
+   location: assets/Objects/hiking_boot.png
+   strings: 
+   - ':hiking_boot:'
+- 
+   name: womans_flat_shoe
+   location: assets/Objects/womans_flat_shoe.png
+   strings: 
+   - ':womans_flat_shoe:'
+- 
+   name: high_heel
+   location: assets/Objects/high_heel.png
+   strings: 
+   - ':high_heel:'
+- 
+   name: sandal
+   location: assets/Objects/sandal.png
+   strings: 
+   - ':sandal:'
+- 
+   name: ballet_shoes
+   location: assets/Objects/ballet_shoes.png
+   strings: 
+   - ':ballet_shoes:'
+- 
+   name: boot
+   location: assets/Objects/boot.png
+   strings: 
+   - ':boot:'
+- 
+   name: hair_pick
+   location: assets/Objects/hair_pick.png
+   strings: 
+   - ':hair_pick:'
+- 
+   name: crown
+   location: assets/Objects/crown.png
+   strings: 
+   - ':crown:'
+- 
+   name: womans_hat
+   location: assets/Objects/womans_hat.png
+   strings: 
+   - ':womans_hat:'
+- 
+   name: tophat
+   location: assets/Objects/tophat.png
+   strings: 
+   - ':tophat:'
+- 
+   name: mortar_board
+   location: assets/Objects/mortar_board.png
+   strings: 
+   - ':mortar_board:'
+- 
+   name: billed_cap
+   location: assets/Objects/billed_cap.png
+   strings: 
+   - ':billed_cap:'
+- 
+   name: military_helmet
+   location: assets/Objects/military_helmet.png
+   strings: 
+   - ':military_helmet:'
+- 
+   name: helmet_with_white_cross
+   location: assets/Objects/helmet_with_white_cross.png
+   strings: 
+   - ':helmet_with_white_cross:'
+- 
+   name: prayer_beads
+   location: assets/Objects/prayer_beads.png
+   strings: 
+   - ':prayer_beads:'
+- 
+   name: lipstick
+   location: assets/Objects/lipstick.png
+   strings: 
+   - ':lipstick:'
+- 
+   name: ring
+   location: assets/Objects/ring.png
+   strings: 
+   - ':ring:'
+- 
+   name: gem
+   location: assets/Objects/gem.png
+   strings: 
+   - ':gem:'
+- 
+   name: mute
+   location: assets/Objects/mute.png
+   strings: 
+   - ':mute:'
+- 
+   name: speaker
+   location: assets/Objects/speaker.png
+   strings: 
+   - ':speaker:'
+- 
+   name: sound
+   location: assets/Objects/sound.png
+   strings: 
+   - ':sound:'
+- 
+   name: loud_sound
+   location: assets/Objects/loud_sound.png
+   strings: 
+   - ':loud_sound:'
+- 
+   name: loudspeaker
+   location: assets/Objects/loudspeaker.png
+   strings: 
+   - ':loudspeaker:'
+- 
+   name: mega
+   location: assets/Objects/mega.png
+   strings: 
+   - ':mega:'
+- 
+   name: postal_horn
+   location: assets/Objects/postal_horn.png
+   strings: 
+   - ':postal_horn:'
+- 
+   name: bell
+   location: assets/Objects/bell.png
+   strings: 
+   - ':bell:'
+- 
+   name: no_bell
+   location: assets/Objects/no_bell.png
+   strings: 
+   - ':no_bell:'
+- 
+   name: musical_score
+   location: assets/Objects/musical_score.png
+   strings: 
+   - ':musical_score:'
+- 
+   name: musical_note
+   location: assets/Objects/musical_note.png
+   strings: 
+   - ':musical_note:'
+- 
+   name: notes
+   location: assets/Objects/notes.png
+   strings: 
+   - ':notes:'
+- 
+   name: studio_microphone
+   location: assets/Objects/studio_microphone.png
+   strings: 
+   - ':studio_microphone:'
+- 
+   name: level_slider
+   location: assets/Objects/level_slider.png
+   strings: 
+   - ':level_slider:'
+- 
+   name: control_knobs
+   location: assets/Objects/control_knobs.png
+   strings: 
+   - ':control_knobs:'
+- 
+   name: microphone
+   location: assets/Objects/microphone.png
+   strings: 
+   - ':microphone:'
+- 
+   name: headphones
+   location: assets/Objects/headphones.png
+   strings: 
+   - ':headphones:'
+- 
+   name: radio
+   location: assets/Objects/radio.png
+   strings: 
+   - ':radio:'
+- 
+   name: saxophone
+   location: assets/Objects/saxophone.png
+   strings: 
+   - ':saxophone:'
+- 
+   name: accordion
+   location: assets/Objects/accordion.png
+   strings: 
+   - ':accordion:'
+- 
+   name: guitar
+   location: assets/Objects/guitar.png
+   strings: 
+   - ':guitar:'
+- 
+   name: musical_keyboard
+   location: assets/Objects/musical_keyboard.png
+   strings: 
+   - ':musical_keyboard:'
+- 
+   name: trumpet
+   location: assets/Objects/trumpet.png
+   strings: 
+   - ':trumpet:'
+- 
+   name: violin
+   location: assets/Objects/violin.png
+   strings: 
+   - ':violin:'
+- 
+   name: banjo
+   location: assets/Objects/banjo.png
+   strings: 
+   - ':banjo:'
+- 
+   name: drum_with_drumsticks
+   location: assets/Objects/drum_with_drumsticks.png
+   strings: 
+   - ':drum_with_drumsticks:'
+- 
+   name: long_drum
+   location: assets/Objects/long_drum.png
+   strings: 
+   - ':long_drum:'
+- 
+   name: maracas
+   location: assets/Objects/maracas.png
+   strings: 
+   - ':maracas:'
+- 
+   name: flute
+   location: assets/Objects/flute.png
+   strings: 
+   - ':flute:'
+- 
+   name: iphone
+   location: assets/Objects/iphone.png
+   strings: 
+   - ':iphone:'
+- 
+   name: calling
+   location: assets/Objects/calling.png
+   strings: 
+   - ':calling:'
+- 
+   name: phone
+   location: assets/Objects/phone.png
+   strings: 
+   - ':phone:'
+   - ':telephone:'
+- 
+   name: telephone_receiver
+   location: assets/Objects/telephone_receiver.png
+   strings: 
+   - ':telephone_receiver:'
+- 
+   name: pager
+   location: assets/Objects/pager.png
+   strings: 
+   - ':pager:'
+- 
+   name: fax
+   location: assets/Objects/fax.png
+   strings: 
+   - ':fax:'
+- 
+   name: battery
+   location: assets/Objects/battery.png
+   strings: 
+   - ':battery:'
+- 
+   name: low_battery
+   location: assets/Objects/low_battery.png
+   strings: 
+   - ':low_battery:'
+- 
+   name: electric_plug
+   location: assets/Objects/electric_plug.png
+   strings: 
+   - ':electric_plug:'
+- 
+   name: computer
+   location: assets/Objects/computer.png
+   strings: 
+   - ':computer:'
+- 
+   name: desktop_computer
+   location: assets/Objects/desktop_computer.png
+   strings: 
+   - ':desktop_computer:'
+- 
+   name: printer
+   location: assets/Objects/printer.png
+   strings: 
+   - ':printer:'
+- 
+   name: keyboard
+   location: assets/Objects/keyboard.png
+   strings: 
+   - ':keyboard:'
+- 
+   name: three_button_mouse
+   location: assets/Objects/three_button_mouse.png
+   strings: 
+   - ':three_button_mouse:'
+- 
+   name: trackball
+   location: assets/Objects/trackball.png
+   strings: 
+   - ':trackball:'
+- 
+   name: minidisc
+   location: assets/Objects/minidisc.png
+   strings: 
+   - ':minidisc:'
+- 
+   name: floppy_disk
+   location: assets/Objects/floppy_disk.png
+   strings: 
+   - ':floppy_disk:'
+- 
+   name: cd
+   location: assets/Objects/cd.png
+   strings: 
+   - ':cd:'
+- 
+   name: dvd
+   location: assets/Objects/dvd.png
+   strings: 
+   - ':dvd:'
+- 
+   name: abacus
+   location: assets/Objects/abacus.png
+   strings: 
+   - ':abacus:'
+- 
+   name: movie_camera
+   location: assets/Objects/movie_camera.png
+   strings: 
+   - ':movie_camera:'
+- 
+   name: film_frames
+   location: assets/Objects/film_frames.png
+   strings: 
+   - ':film_frames:'
+- 
+   name: film_projector
+   location: assets/Objects/film_projector.png
+   strings: 
+   - ':film_projector:'
+- 
+   name: clapper
+   location: assets/Objects/clapper.png
+   strings: 
+   - ':clapper:'
+- 
+   name: tv
+   location: assets/Objects/tv.png
+   strings: 
+   - ':tv:'
+- 
+   name: camera
+   location: assets/Objects/camera.png
+   strings: 
+   - ':camera:'
+- 
+   name: camera_with_flash
+   location: assets/Objects/camera_with_flash.png
+   strings: 
+   - ':camera_with_flash:'
+- 
+   name: video_camera
+   location: assets/Objects/video_camera.png
+   strings: 
+   - ':video_camera:'
+- 
+   name: vhs
+   location: assets/Objects/vhs.png
+   strings: 
+   - ':vhs:'
+- 
+   name: mag
+   location: assets/Objects/mag.png
+   strings: 
+   - ':mag:'
+- 
+   name: mag_right
+   location: assets/Objects/mag_right.png
+   strings: 
+   - ':mag_right:'
+- 
+   name: candle
+   location: assets/Objects/candle.png
+   strings: 
+   - ':candle:'
+- 
+   name: bulb
+   location: assets/Objects/bulb.png
+   strings: 
+   - ':bulb:'
+- 
+   name: flashlight
+   location: assets/Objects/flashlight.png
+   strings: 
+   - ':flashlight:'
+- 
+   name: izakaya_lantern
+   location: assets/Objects/izakaya_lantern.png
+   strings: 
+   - ':izakaya_lantern:'
+   - ':lantern:'
+- 
+   name: diya_lamp
+   location: assets/Objects/diya_lamp.png
+   strings: 
+   - ':diya_lamp:'
+- 
+   name: notebook_with_decorative_cover
+   location: assets/Objects/notebook_with_decorative_cover.png
+   strings: 
+   - ':notebook_with_decorative_cover:'
+- 
+   name: closed_book
+   location: assets/Objects/closed_book.png
+   strings: 
+   - ':closed_book:'
+- 
+   name: book
+   location: assets/Objects/book.png
+   strings: 
+   - ':book:'
+   - ':open_book:'
+- 
+   name: green_book
+   location: assets/Objects/green_book.png
+   strings: 
+   - ':green_book:'
+- 
+   name: blue_book
+   location: assets/Objects/blue_book.png
+   strings: 
+   - ':blue_book:'
+- 
+   name: orange_book
+   location: assets/Objects/orange_book.png
+   strings: 
+   - ':orange_book:'
+- 
+   name: books
+   location: assets/Objects/books.png
+   strings: 
+   - ':books:'
+- 
+   name: notebook
+   location: assets/Objects/notebook.png
+   strings: 
+   - ':notebook:'
+- 
+   name: ledger
+   location: assets/Objects/ledger.png
+   strings: 
+   - ':ledger:'
+- 
+   name: page_with_curl
+   location: assets/Objects/page_with_curl.png
+   strings: 
+   - ':page_with_curl:'
+- 
+   name: scroll
+   location: assets/Objects/scroll.png
+   strings: 
+   - ':scroll:'
+- 
+   name: page_facing_up
+   location: assets/Objects/page_facing_up.png
+   strings: 
+   - ':page_facing_up:'
+- 
+   name: newspaper
+   location: assets/Objects/newspaper.png
+   strings: 
+   - ':newspaper:'
+- 
+   name: rolled_up_newspaper
+   location: assets/Objects/rolled_up_newspaper.png
+   strings: 
+   - ':rolled_up_newspaper:'
+- 
+   name: bookmark_tabs
+   location: assets/Objects/bookmark_tabs.png
+   strings: 
+   - ':bookmark_tabs:'
+- 
+   name: bookmark
+   location: assets/Objects/bookmark.png
+   strings: 
+   - ':bookmark:'
+- 
+   name: label
+   location: assets/Objects/label.png
+   strings: 
+   - ':label:'
+- 
+   name: moneybag
+   location: assets/Objects/moneybag.png
+   strings: 
+   - ':moneybag:'
+- 
+   name: coin
+   location: assets/Objects/coin.png
+   strings: 
+   - ':coin:'
+- 
+   name: yen
+   location: assets/Objects/yen.png
+   strings: 
+   - ':yen:'
+- 
+   name: dollar
+   location: assets/Objects/dollar.png
+   strings: 
+   - ':dollar:'
+- 
+   name: euro
+   location: assets/Objects/euro.png
+   strings: 
+   - ':euro:'
+- 
+   name: pound
+   location: assets/Objects/pound.png
+   strings: 
+   - ':pound:'
+- 
+   name: money_with_wings
+   location: assets/Objects/money_with_wings.png
+   strings: 
+   - ':money_with_wings:'
+- 
+   name: credit_card
+   location: assets/Objects/credit_card.png
+   strings: 
+   - ':credit_card:'
+- 
+   name: receipt
+   location: assets/Objects/receipt.png
+   strings: 
+   - ':receipt:'
+- 
+   name: chart
+   location: assets/Objects/chart.png
+   strings: 
+   - ':chart:'
+- 
+   name: envelope
+   location: assets/Objects/envelope.png
+   strings: 
+   - ':email:'
+   - ':envelope:'
+- 
+   name: e_mail
+   location: assets/Objects/e_mail.png
+   strings: 
+   - ':e-mail:'
+- 
+   name: incoming_envelope
+   location: assets/Objects/incoming_envelope.png
+   strings: 
+   - ':incoming_envelope:'
+- 
+   name: envelope_with_arrow
+   location: assets/Objects/envelope_with_arrow.png
+   strings: 
+   - ':envelope_with_arrow:'
+- 
+   name: outbox_tray
+   location: assets/Objects/outbox_tray.png
+   strings: 
+   - ':outbox_tray:'
+- 
+   name: inbox_tray
+   location: assets/Objects/inbox_tray.png
+   strings: 
+   - ':inbox_tray:'
+- 
+   name: package
+   location: assets/Objects/package.png
+   strings: 
+   - ':package:'
+- 
+   name: mailbox
+   location: assets/Objects/mailbox.png
+   strings: 
+   - ':mailbox:'
+- 
+   name: mailbox_closed
+   location: assets/Objects/mailbox_closed.png
+   strings: 
+   - ':mailbox_closed:'
+- 
+   name: mailbox_with_mail
+   location: assets/Objects/mailbox_with_mail.png
+   strings: 
+   - ':mailbox_with_mail:'
+- 
+   name: mailbox_with_no_mail
+   location: assets/Objects/mailbox_with_no_mail.png
+   strings: 
+   - ':mailbox_with_no_mail:'
+- 
+   name: postbox
+   location: assets/Objects/postbox.png
+   strings: 
+   - ':postbox:'
+- 
+   name: ballot_box_with_ballot
+   location: assets/Objects/ballot_box_with_ballot.png
+   strings: 
+   - ':ballot_box_with_ballot:'
+- 
+   name: pencil2
+   location: assets/Objects/pencil2.png
+   strings: 
+   - ':pencil2:'
+- 
+   name: black_nib
+   location: assets/Objects/black_nib.png
+   strings: 
+   - ':black_nib:'
+- 
+   name: lower_left_fountain_pen
+   location: assets/Objects/lower_left_fountain_pen.png
+   strings: 
+   - ':lower_left_fountain_pen:'
+- 
+   name: lower_left_ballpoint_pen
+   location: assets/Objects/lower_left_ballpoint_pen.png
+   strings: 
+   - ':lower_left_ballpoint_pen:'
+- 
+   name: lower_left_paintbrush
+   location: assets/Objects/lower_left_paintbrush.png
+   strings: 
+   - ':lower_left_paintbrush:'
+- 
+   name: lower_left_crayon
+   location: assets/Objects/lower_left_crayon.png
+   strings: 
+   - ':lower_left_crayon:'
+- 
+   name: memo
+   location: assets/Objects/memo.png
+   strings: 
+   - ':memo:'
+   - ':pencil:'
+- 
+   name: briefcase
+   location: assets/Objects/briefcase.png
+   strings: 
+   - ':briefcase:'
+- 
+   name: file_folder
+   location: assets/Objects/file_folder.png
+   strings: 
+   - ':file_folder:'
+- 
+   name: open_file_folder
+   location: assets/Objects/open_file_folder.png
+   strings: 
+   - ':open_file_folder:'
+- 
+   name: card_index_dividers
+   location: assets/Objects/card_index_dividers.png
+   strings: 
+   - ':card_index_dividers:'
+- 
+   name: date
+   location: assets/Objects/date.png
+   strings: 
+   - ':date:'
+- 
+   name: calendar
+   location: assets/Objects/calendar.png
+   strings: 
+   - ':calendar:'
+- 
+   name: spiral_note_pad
+   location: assets/Objects/spiral_note_pad.png
+   strings: 
+   - ':spiral_note_pad:'
+- 
+   name: spiral_calendar_pad
+   location: assets/Objects/spiral_calendar_pad.png
+   strings: 
+   - ':spiral_calendar_pad:'
+- 
+   name: card_index
+   location: assets/Objects/card_index.png
+   strings: 
+   - ':card_index:'
+- 
+   name: chart_with_upwards_trend
+   location: assets/Objects/chart_with_upwards_trend.png
+   strings: 
+   - ':chart_with_upwards_trend:'
+- 
+   name: chart_with_downwards_trend
+   location: assets/Objects/chart_with_downwards_trend.png
+   strings: 
+   - ':chart_with_downwards_trend:'
+- 
+   name: bar_chart
+   location: assets/Objects/bar_chart.png
+   strings: 
+   - ':bar_chart:'
+- 
+   name: clipboard
+   location: assets/Objects/clipboard.png
+   strings: 
+   - ':clipboard:'
+- 
+   name: pushpin
+   location: assets/Objects/pushpin.png
+   strings: 
+   - ':pushpin:'
+- 
+   name: round_pushpin
+   location: assets/Objects/round_pushpin.png
+   strings: 
+   - ':round_pushpin:'
+- 
+   name: paperclip
+   location: assets/Objects/paperclip.png
+   strings: 
+   - ':paperclip:'
+- 
+   name: linked_paperclips
+   location: assets/Objects/linked_paperclips.png
+   strings: 
+   - ':linked_paperclips:'
+- 
+   name: straight_ruler
+   location: assets/Objects/straight_ruler.png
+   strings: 
+   - ':straight_ruler:'
+- 
+   name: triangular_ruler
+   location: assets/Objects/triangular_ruler.png
+   strings: 
+   - ':triangular_ruler:'
+- 
+   name: scissors
+   location: assets/Objects/scissors.png
+   strings: 
+   - ':scissors:'
+- 
+   name: card_file_box
+   location: assets/Objects/card_file_box.png
+   strings: 
+   - ':card_file_box:'
+- 
+   name: file_cabinet
+   location: assets/Objects/file_cabinet.png
+   strings: 
+   - ':file_cabinet:'
+- 
+   name: wastebasket
+   location: assets/Objects/wastebasket.png
+   strings: 
+   - ':wastebasket:'
+- 
+   name: lock
+   location: assets/Objects/lock.png
+   strings: 
+   - ':lock:'
+- 
+   name: unlock
+   location: assets/Objects/unlock.png
+   strings: 
+   - ':unlock:'
+- 
+   name: lock_with_ink_pen
+   location: assets/Objects/lock_with_ink_pen.png
+   strings: 
+   - ':lock_with_ink_pen:'
+- 
+   name: closed_lock_with_key
+   location: assets/Objects/closed_lock_with_key.png
+   strings: 
+   - ':closed_lock_with_key:'
+- 
+   name: key
+   location: assets/Objects/key.png
+   strings: 
+   - ':key:'
+- 
+   name: old_key
+   location: assets/Objects/old_key.png
+   strings: 
+   - ':old_key:'
+- 
+   name: hammer
+   location: assets/Objects/hammer.png
+   strings: 
+   - ':hammer:'
+- 
+   name: axe
+   location: assets/Objects/axe.png
+   strings: 
+   - ':axe:'
+- 
+   name: pick
+   location: assets/Objects/pick.png
+   strings: 
+   - ':pick:'
+- 
+   name: hammer_and_pick
+   location: assets/Objects/hammer_and_pick.png
+   strings: 
+   - ':hammer_and_pick:'
+- 
+   name: hammer_and_wrench
+   location: assets/Objects/hammer_and_wrench.png
+   strings: 
+   - ':hammer_and_wrench:'
+- 
+   name: dagger_knife
+   location: assets/Objects/dagger_knife.png
+   strings: 
+   - ':dagger_knife:'
+- 
+   name: crossed_swords
+   location: assets/Objects/crossed_swords.png
+   strings: 
+   - ':crossed_swords:'
+- 
+   name: bomb
+   location: assets/Objects/bomb.png
+   strings: 
+   - ':bomb:'
+- 
+   name: boomerang
+   location: assets/Objects/boomerang.png
+   strings: 
+   - ':boomerang:'
+- 
+   name: bow_and_arrow
+   location: assets/Objects/bow_and_arrow.png
+   strings: 
+   - ':bow_and_arrow:'
+- 
+   name: shield
+   location: assets/Objects/shield.png
+   strings: 
+   - ':shield:'
+- 
+   name: carpentry_saw
+   location: assets/Objects/carpentry_saw.png
+   strings: 
+   - ':carpentry_saw:'
+- 
+   name: wrench
+   location: assets/Objects/wrench.png
+   strings: 
+   - ':wrench:'
+- 
+   name: screwdriver
+   location: assets/Objects/screwdriver.png
+   strings: 
+   - ':screwdriver:'
+- 
+   name: nut_and_bolt
+   location: assets/Objects/nut_and_bolt.png
+   strings: 
+   - ':nut_and_bolt:'
+- 
+   name: gear
+   location: assets/Objects/gear.png
+   strings: 
+   - ':gear:'
+- 
+   name: compression
+   location: assets/Objects/compression.png
+   strings: 
+   - ':compression:'
+- 
+   name: scales
+   location: assets/Objects/scales.png
+   strings: 
+   - ':scales:'
+- 
+   name: probing_cane
+   location: assets/Objects/probing_cane.png
+   strings: 
+   - ':probing_cane:'
+- 
+   name: link
+   location: assets/Objects/link.png
+   strings: 
+   - ':link:'
+- 
+   name: chains
+   location: assets/Objects/chains.png
+   strings: 
+   - ':chains:'
+- 
+   name: hook
+   location: assets/Objects/hook.png
+   strings: 
+   - ':hook:'
+- 
+   name: toolbox
+   location: assets/Objects/toolbox.png
+   strings: 
+   - ':toolbox:'
+- 
+   name: magnet
+   location: assets/Objects/magnet.png
+   strings: 
+   - ':magnet:'
+- 
+   name: ladder
+   location: assets/Objects/ladder.png
+   strings: 
+   - ':ladder:'
+- 
+   name: alembic
+   location: assets/Objects/alembic.png
+   strings: 
+   - ':alembic:'
+- 
+   name: test_tube
+   location: assets/Objects/test_tube.png
+   strings: 
+   - ':test_tube:'
+- 
+   name: petri_dish
+   location: assets/Objects/petri_dish.png
+   strings: 
+   - ':petri_dish:'
+- 
+   name: dna
+   location: assets/Objects/dna.png
+   strings: 
+   - ':dna:'
+- 
+   name: microscope
+   location: assets/Objects/microscope.png
+   strings: 
+   - ':microscope:'
+- 
+   name: telescope
+   location: assets/Objects/telescope.png
+   strings: 
+   - ':telescope:'
+- 
+   name: satellite_antenna
+   location: assets/Objects/satellite_antenna.png
+   strings: 
+   - ':satellite_antenna:'
+- 
+   name: syringe
+   location: assets/Objects/syringe.png
+   strings: 
+   - ':syringe:'
+- 
+   name: drop_of_blood
+   location: assets/Objects/drop_of_blood.png
+   strings: 
+   - ':drop_of_blood:'
+- 
+   name: pill
+   location: assets/Objects/pill.png
+   strings: 
+   - ':pill:'
+- 
+   name: adhesive_bandage
+   location: assets/Objects/adhesive_bandage.png
+   strings: 
+   - ':adhesive_bandage:'
+- 
+   name: crutch
+   location: assets/Objects/crutch.png
+   strings: 
+   - ':crutch:'
+- 
+   name: stethoscope
+   location: assets/Objects/stethoscope.png
+   strings: 
+   - ':stethoscope:'
+- 
+   name: x_ray
+   location: assets/Objects/x_ray.png
+   strings: 
+   - ':x-ray:'
+- 
+   name: door
+   location: assets/Objects/door.png
+   strings: 
+   - ':door:'
+- 
+   name: elevator
+   location: assets/Objects/elevator.png
+   strings: 
+   - ':elevator:'
+- 
+   name: mirror
+   location: assets/Objects/mirror.png
+   strings: 
+   - ':mirror:'
+- 
+   name: window
+   location: assets/Objects/window.png
+   strings: 
+   - ':window:'
+- 
+   name: bed
+   location: assets/Objects/bed.png
+   strings: 
+   - ':bed:'
+- 
+   name: couch_and_lamp
+   location: assets/Objects/couch_and_lamp.png
+   strings: 
+   - ':couch_and_lamp:'
+- 
+   name: chair
+   location: assets/Objects/chair.png
+   strings: 
+   - ':chair:'
+- 
+   name: toilet
+   location: assets/Objects/toilet.png
+   strings: 
+   - ':toilet:'
+- 
+   name: plunger
+   location: assets/Objects/plunger.png
+   strings: 
+   - ':plunger:'
+- 
+   name: shower
+   location: assets/Objects/shower.png
+   strings: 
+   - ':shower:'
+- 
+   name: bathtub
+   location: assets/Objects/bathtub.png
+   strings: 
+   - ':bathtub:'
+- 
+   name: mouse_trap
+   location: assets/Objects/mouse_trap.png
+   strings: 
+   - ':mouse_trap:'
+- 
+   name: razor
+   location: assets/Objects/razor.png
+   strings: 
+   - ':razor:'
+- 
+   name: lotion_bottle
+   location: assets/Objects/lotion_bottle.png
+   strings: 
+   - ':lotion_bottle:'
+- 
+   name: safety_pin
+   location: assets/Objects/safety_pin.png
+   strings: 
+   - ':safety_pin:'
+- 
+   name: broom
+   location: assets/Objects/broom.png
+   strings: 
+   - ':broom:'
+- 
+   name: basket
+   location: assets/Objects/basket.png
+   strings: 
+   - ':basket:'
+- 
+   name: roll_of_paper
+   location: assets/Objects/roll_of_paper.png
+   strings: 
+   - ':roll_of_paper:'
+- 
+   name: bucket
+   location: assets/Objects/bucket.png
+   strings: 
+   - ':bucket:'
+- 
+   name: soap
+   location: assets/Objects/soap.png
+   strings: 
+   - ':soap:'
+- 
+   name: bubbles
+   location: assets/Objects/bubbles.png
+   strings: 
+   - ':bubbles:'
+- 
+   name: toothbrush
+   location: assets/Objects/toothbrush.png
+   strings: 
+   - ':toothbrush:'
+- 
+   name: sponge
+   location: assets/Objects/sponge.png
+   strings: 
+   - ':sponge:'
+- 
+   name: fire_extinguisher
+   location: assets/Objects/fire_extinguisher.png
+   strings: 
+   - ':fire_extinguisher:'
+- 
+   name: shopping_trolley
+   location: assets/Objects/shopping_trolley.png
+   strings: 
+   - ':shopping_trolley:'
+- 
+   name: smoking
+   location: assets/Objects/smoking.png
+   strings: 
+   - ':smoking:'
+- 
+   name: coffin
+   location: assets/Objects/coffin.png
+   strings: 
+   - ':coffin:'
+- 
+   name: headstone
+   location: assets/Objects/headstone.png
+   strings: 
+   - ':headstone:'
+- 
+   name: funeral_urn
+   location: assets/Objects/funeral_urn.png
+   strings: 
+   - ':funeral_urn:'
+- 
+   name: nazar_amulet
+   location: assets/Objects/nazar_amulet.png
+   strings: 
+   - ':nazar_amulet:'
+- 
+   name: hamsa
+   location: assets/Objects/hamsa.png
+   strings: 
+   - ':hamsa:'
+- 
+   name: moyai
+   location: assets/Objects/moyai.png
+   strings: 
+   - ':moyai:'
+- 
+   name: placard
+   location: assets/Objects/placard.png
+   strings: 
+   - ':placard:'
+- 
+   name: identification_card
+   location: assets/Objects/identification_card.png
+   strings: 
+   - ':identification_card:'

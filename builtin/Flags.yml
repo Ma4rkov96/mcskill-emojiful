@@ -1,0 +1,1350 @@
+- 
+   name: checkered_flag
+   location: assets/Flags/checkered_flag.png
+   strings: 
+   - ':checkered_flag:'
+- 
+   name: triangular_flag_on_post
+   location: assets/Flags/triangular_flag_on_post.png
+   strings: 
+   - ':triangular_flag_on_post:'
+- 
+   name: crossed_flags
+   location: assets/Flags/crossed_flags.png
+   strings: 
+   - ':crossed_flags:'
+- 
+   name: waving_black_flag
+   location: assets/Flags/waving_black_flag.png
+   strings: 
+   - ':waving_black_flag:'
+- 
+   name: waving_white_flag
+   location: assets/Flags/waving_white_flag.png
+   strings: 
+   - ':waving_white_flag:'
+- 
+   name: rainbow_flag
+   location: assets/Flags/rainbow_flag.png
+   strings: 
+   - ':rainbow-flag:'
+- 
+   name: transgender_flag
+   location: assets/Flags/transgender_flag.png
+   strings: 
+   - ':transgender_flag:'
+- 
+   name: pirate_flag
+   location: assets/Flags/pirate_flag.png
+   strings: 
+   - ':pirate_flag:'
+- 
+   name: flag_ac
+   location: assets/Flags/flag_ac.png
+   strings: 
+   - ':flag-ac:'
+- 
+   name: flag_ad
+   location: assets/Flags/flag_ad.png
+   strings: 
+   - ':flag-ad:'
+- 
+   name: flag_ae
+   location: assets/Flags/flag_ae.png
+   strings: 
+   - ':flag-ae:'
+- 
+   name: flag_af
+   location: assets/Flags/flag_af.png
+   strings: 
+   - ':flag-af:'
+- 
+   name: flag_ag
+   location: assets/Flags/flag_ag.png
+   strings: 
+   - ':flag-ag:'
+- 
+   name: flag_ai
+   location: assets/Flags/flag_ai.png
+   strings: 
+   - ':flag-ai:'
+- 
+   name: flag_al
+   location: assets/Flags/flag_al.png
+   strings: 
+   - ':flag-al:'
+- 
+   name: flag_am
+   location: assets/Flags/flag_am.png
+   strings: 
+   - ':flag-am:'
+- 
+   name: flag_ao
+   location: assets/Flags/flag_ao.png
+   strings: 
+   - ':flag-ao:'
+- 
+   name: flag_aq
+   location: assets/Flags/flag_aq.png
+   strings: 
+   - ':flag-aq:'
+- 
+   name: flag_ar
+   location: assets/Flags/flag_ar.png
+   strings: 
+   - ':flag-ar:'
+- 
+   name: flag_as
+   location: assets/Flags/flag_as.png
+   strings: 
+   - ':flag-as:'
+- 
+   name: flag_at
+   location: assets/Flags/flag_at.png
+   strings: 
+   - ':flag-at:'
+- 
+   name: flag_au
+   location: assets/Flags/flag_au.png
+   strings: 
+   - ':flag-au:'
+- 
+   name: flag_aw
+   location: assets/Flags/flag_aw.png
+   strings: 
+   - ':flag-aw:'
+- 
+   name: flag_ax
+   location: assets/Flags/flag_ax.png
+   strings: 
+   - ':flag-ax:'
+- 
+   name: flag_az
+   location: assets/Flags/flag_az.png
+   strings: 
+   - ':flag-az:'
+- 
+   name: flag_ba
+   location: assets/Flags/flag_ba.png
+   strings: 
+   - ':flag-ba:'
+- 
+   name: flag_bb
+   location: assets/Flags/flag_bb.png
+   strings: 
+   - ':flag-bb:'
+- 
+   name: flag_bd
+   location: assets/Flags/flag_bd.png
+   strings: 
+   - ':flag-bd:'
+- 
+   name: flag_be
+   location: assets/Flags/flag_be.png
+   strings: 
+   - ':flag-be:'
+- 
+   name: flag_bf
+   location: assets/Flags/flag_bf.png
+   strings: 
+   - ':flag-bf:'
+- 
+   name: flag_bg
+   location: assets/Flags/flag_bg.png
+   strings: 
+   - ':flag-bg:'
+- 
+   name: flag_bh
+   location: assets/Flags/flag_bh.png
+   strings: 
+   - ':flag-bh:'
+- 
+   name: flag_bi
+   location: assets/Flags/flag_bi.png
+   strings: 
+   - ':flag-bi:'
+- 
+   name: flag_bj
+   location: assets/Flags/flag_bj.png
+   strings: 
+   - ':flag-bj:'
+- 
+   name: flag_bl
+   location: assets/Flags/flag_bl.png
+   strings: 
+   - ':flag-bl:'
+- 
+   name: flag_bm
+   location: assets/Flags/flag_bm.png
+   strings: 
+   - ':flag-bm:'
+- 
+   name: flag_bn
+   location: assets/Flags/flag_bn.png
+   strings: 
+   - ':flag-bn:'
+- 
+   name: flag_bo
+   location: assets/Flags/flag_bo.png
+   strings: 
+   - ':flag-bo:'
+- 
+   name: flag_bq
+   location: assets/Flags/flag_bq.png
+   strings: 
+   - ':flag-bq:'
+- 
+   name: flag_br
+   location: assets/Flags/flag_br.png
+   strings: 
+   - ':flag-br:'
+- 
+   name: flag_bs
+   location: assets/Flags/flag_bs.png
+   strings: 
+   - ':flag-bs:'
+- 
+   name: flag_bt
+   location: assets/Flags/flag_bt.png
+   strings: 
+   - ':flag-bt:'
+- 
+   name: flag_bv
+   location: assets/Flags/flag_bv.png
+   strings: 
+   - ':flag-bv:'
+- 
+   name: flag_bw
+   location: assets/Flags/flag_bw.png
+   strings: 
+   - ':flag-bw:'
+- 
+   name: flag_by
+   location: assets/Flags/flag_by.png
+   strings: 
+   - ':flag-by:'
+- 
+   name: flag_bz
+   location: assets/Flags/flag_bz.png
+   strings: 
+   - ':flag-bz:'
+- 
+   name: flag_ca
+   location: assets/Flags/flag_ca.png
+   strings: 
+   - ':flag-ca:'
+- 
+   name: flag_cc
+   location: assets/Flags/flag_cc.png
+   strings: 
+   - ':flag-cc:'
+- 
+   name: flag_cd
+   location: assets/Flags/flag_cd.png
+   strings: 
+   - ':flag-cd:'
+- 
+   name: flag_cf
+   location: assets/Flags/flag_cf.png
+   strings: 
+   - ':flag-cf:'
+- 
+   name: flag_cg
+   location: assets/Flags/flag_cg.png
+   strings: 
+   - ':flag-cg:'
+- 
+   name: flag_ch
+   location: assets/Flags/flag_ch.png
+   strings: 
+   - ':flag-ch:'
+- 
+   name: flag_ci
+   location: assets/Flags/flag_ci.png
+   strings: 
+   - ':flag-ci:'
+- 
+   name: flag_ck
+   location: assets/Flags/flag_ck.png
+   strings: 
+   - ':flag-ck:'
+- 
+   name: flag_cl
+   location: assets/Flags/flag_cl.png
+   strings: 
+   - ':flag-cl:'
+- 
+   name: flag_cm
+   location: assets/Flags/flag_cm.png
+   strings: 
+   - ':flag-cm:'
+- 
+   name: cn
+   location: assets/Flags/cn.png
+   strings: 
+   - ':cn:'
+   - ':flag-cn:'
+- 
+   name: flag_co
+   location: assets/Flags/flag_co.png
+   strings: 
+   - ':flag-co:'
+- 
+   name: flag_cp
+   location: assets/Flags/flag_cp.png
+   strings: 
+   - ':flag-cp:'
+- 
+   name: flag_cr
+   location: assets/Flags/flag_cr.png
+   strings: 
+   - ':flag-cr:'
+- 
+   name: flag_cu
+   location: assets/Flags/flag_cu.png
+   strings: 
+   - ':flag-cu:'
+- 
+   name: flag_cv
+   location: assets/Flags/flag_cv.png
+   strings: 
+   - ':flag-cv:'
+- 
+   name: flag_cw
+   location: assets/Flags/flag_cw.png
+   strings: 
+   - ':flag-cw:'
+- 
+   name: flag_cx
+   location: assets/Flags/flag_cx.png
+   strings: 
+   - ':flag-cx:'
+- 
+   name: flag_cy
+   location: assets/Flags/flag_cy.png
+   strings: 
+   - ':flag-cy:'
+- 
+   name: flag_cz
+   location: assets/Flags/flag_cz.png
+   strings: 
+   - ':flag-cz:'
+- 
+   name: de
+   location: assets/Flags/de.png
+   strings: 
+   - ':de:'
+   - ':flag-de:'
+- 
+   name: flag_dg
+   location: assets/Flags/flag_dg.png
+   strings: 
+   - ':flag-dg:'
+- 
+   name: flag_dj
+   location: assets/Flags/flag_dj.png
+   strings: 
+   - ':flag-dj:'
+- 
+   name: flag_dk
+   location: assets/Flags/flag_dk.png
+   strings: 
+   - ':flag-dk:'
+- 
+   name: flag_dm
+   location: assets/Flags/flag_dm.png
+   strings: 
+   - ':flag-dm:'
+- 
+   name: flag_do
+   location: assets/Flags/flag_do.png
+   strings: 
+   - ':flag-do:'
+- 
+   name: flag_dz
+   location: assets/Flags/flag_dz.png
+   strings: 
+   - ':flag-dz:'
+- 
+   name: flag_ea
+   location: assets/Flags/flag_ea.png
+   strings: 
+   - ':flag-ea:'
+- 
+   name: flag_ec
+   location: assets/Flags/flag_ec.png
+   strings: 
+   - ':flag-ec:'
+- 
+   name: flag_ee
+   location: assets/Flags/flag_ee.png
+   strings: 
+   - ':flag-ee:'
+- 
+   name: flag_eg
+   location: assets/Flags/flag_eg.png
+   strings: 
+   - ':flag-eg:'
+- 
+   name: flag_eh
+   location: assets/Flags/flag_eh.png
+   strings: 
+   - ':flag-eh:'
+- 
+   name: flag_er
+   location: assets/Flags/flag_er.png
+   strings: 
+   - ':flag-er:'
+- 
+   name: es
+   location: assets/Flags/es.png
+   strings: 
+   - ':es:'
+   - ':flag-es:'
+- 
+   name: flag_et
+   location: assets/Flags/flag_et.png
+   strings: 
+   - ':flag-et:'
+- 
+   name: flag_eu
+   location: assets/Flags/flag_eu.png
+   strings: 
+   - ':flag-eu:'
+- 
+   name: flag_fi
+   location: assets/Flags/flag_fi.png
+   strings: 
+   - ':flag-fi:'
+- 
+   name: flag_fj
+   location: assets/Flags/flag_fj.png
+   strings: 
+   - ':flag-fj:'
+- 
+   name: flag_fk
+   location: assets/Flags/flag_fk.png
+   strings: 
+   - ':flag-fk:'
+- 
+   name: flag_fm
+   location: assets/Flags/flag_fm.png
+   strings: 
+   - ':flag-fm:'
+- 
+   name: flag_fo
+   location: assets/Flags/flag_fo.png
+   strings: 
+   - ':flag-fo:'
+- 
+   name: fr
+   location: assets/Flags/fr.png
+   strings: 
+   - ':fr:'
+   - ':flag-fr:'
+- 
+   name: flag_ga
+   location: assets/Flags/flag_ga.png
+   strings: 
+   - ':flag-ga:'
+- 
+   name: gb
+   location: assets/Flags/gb.png
+   strings: 
+   - ':gb:'
+   - ':uk:'
+   - ':flag-gb:'
+- 
+   name: flag_gd
+   location: assets/Flags/flag_gd.png
+   strings: 
+   - ':flag-gd:'
+- 
+   name: flag_ge
+   location: assets/Flags/flag_ge.png
+   strings: 
+   - ':flag-ge:'
+- 
+   name: flag_gf
+   location: assets/Flags/flag_gf.png
+   strings: 
+   - ':flag-gf:'
+- 
+   name: flag_gg
+   location: assets/Flags/flag_gg.png
+   strings: 
+   - ':flag-gg:'
+- 
+   name: flag_gh
+   location: assets/Flags/flag_gh.png
+   strings: 
+   - ':flag-gh:'
+- 
+   name: flag_gi
+   location: assets/Flags/flag_gi.png
+   strings: 
+   - ':flag-gi:'
+- 
+   name: flag_gl
+   location: assets/Flags/flag_gl.png
+   strings: 
+   - ':flag-gl:'
+- 
+   name: flag_gm
+   location: assets/Flags/flag_gm.png
+   strings: 
+   - ':flag-gm:'
+- 
+   name: flag_gn
+   location: assets/Flags/flag_gn.png
+   strings: 
+   - ':flag-gn:'
+- 
+   name: flag_gp
+   location: assets/Flags/flag_gp.png
+   strings: 
+   - ':flag-gp:'
+- 
+   name: flag_gq
+   location: assets/Flags/flag_gq.png
+   strings: 
+   - ':flag-gq:'
+- 
+   name: flag_gr
+   location: assets/Flags/flag_gr.png
+   strings: 
+   - ':flag-gr:'
+- 
+   name: flag_gs
+   location: assets/Flags/flag_gs.png
+   strings: 
+   - ':flag-gs:'
+- 
+   name: flag_gt
+   location: assets/Flags/flag_gt.png
+   strings: 
+   - ':flag-gt:'
+- 
+   name: flag_gu
+   location: assets/Flags/flag_gu.png
+   strings: 
+   - ':flag-gu:'
+- 
+   name: flag_gw
+   location: assets/Flags/flag_gw.png
+   strings: 
+   - ':flag-gw:'
+- 
+   name: flag_gy
+   location: assets/Flags/flag_gy.png
+   strings: 
+   - ':flag-gy:'
+- 
+   name: flag_hk
+   location: assets/Flags/flag_hk.png
+   strings: 
+   - ':flag-hk:'
+- 
+   name: flag_hm
+   location: assets/Flags/flag_hm.png
+   strings: 
+   - ':flag-hm:'
+- 
+   name: flag_hn
+   location: assets/Flags/flag_hn.png
+   strings: 
+   - ':flag-hn:'
+- 
+   name: flag_hr
+   location: assets/Flags/flag_hr.png
+   strings: 
+   - ':flag-hr:'
+- 
+   name: flag_ht
+   location: assets/Flags/flag_ht.png
+   strings: 
+   - ':flag-ht:'
+- 
+   name: flag_hu
+   location: assets/Flags/flag_hu.png
+   strings: 
+   - ':flag-hu:'
+- 
+   name: flag_ic
+   location: assets/Flags/flag_ic.png
+   strings: 
+   - ':flag-ic:'
+- 
+   name: flag_id
+   location: assets/Flags/flag_id.png
+   strings: 
+   - ':flag-id:'
+- 
+   name: flag_ie
+   location: assets/Flags/flag_ie.png
+   strings: 
+   - ':flag-ie:'
+- 
+   name: flag_il
+   location: assets/Flags/flag_il.png
+   strings: 
+   - ':flag-il:'
+- 
+   name: flag_im
+   location: assets/Flags/flag_im.png
+   strings: 
+   - ':flag-im:'
+- 
+   name: flag_in
+   location: assets/Flags/flag_in.png
+   strings: 
+   - ':flag-in:'
+- 
+   name: flag_io
+   location: assets/Flags/flag_io.png
+   strings: 
+   - ':flag-io:'
+- 
+   name: flag_iq
+   location: assets/Flags/flag_iq.png
+   strings: 
+   - ':flag-iq:'
+- 
+   name: flag_ir
+   location: assets/Flags/flag_ir.png
+   strings: 
+   - ':flag-ir:'
+- 
+   name: flag_is
+   location: assets/Flags/flag_is.png
+   strings: 
+   - ':flag-is:'
+- 
+   name: it
+   location: assets/Flags/it.png
+   strings: 
+   - ':it:'
+   - ':flag-it:'
+- 
+   name: flag_je
+   location: assets/Flags/flag_je.png
+   strings: 
+   - ':flag-je:'
+- 
+   name: flag_jm
+   location: assets/Flags/flag_jm.png
+   strings: 
+   - ':flag-jm:'
+- 
+   name: flag_jo
+   location: assets/Flags/flag_jo.png
+   strings: 
+   - ':flag-jo:'
+- 
+   name: flag_ke
+   location: assets/Flags/flag_ke.png
+   strings: 
+   - ':flag-ke:'
+- 
+   name: flag_kg
+   location: assets/Flags/flag_kg.png
+   strings: 
+   - ':flag-kg:'
+- 
+   name: flag_kh
+   location: assets/Flags/flag_kh.png
+   strings: 
+   - ':flag-kh:'
+- 
+   name: flag_ki
+   location: assets/Flags/flag_ki.png
+   strings: 
+   - ':flag-ki:'
+- 
+   name: flag_km
+   location: assets/Flags/flag_km.png
+   strings: 
+   - ':flag-km:'
+- 
+   name: flag_kn
+   location: assets/Flags/flag_kn.png
+   strings: 
+   - ':flag-kn:'
+- 
+   name: flag_kp
+   location: assets/Flags/flag_kp.png
+   strings: 
+   - ':flag-kp:'
+- 
+   name: kr
+   location: assets/Flags/kr.png
+   strings: 
+   - ':kr:'
+   - ':flag-kr:'
+- 
+   name: flag_kw
+   location: assets/Flags/flag_kw.png
+   strings: 
+   - ':flag-kw:'
+- 
+   name: flag_ky
+   location: assets/Flags/flag_ky.png
+   strings: 
+   - ':flag-ky:'
+- 
+   name: flag_kz
+   location: assets/Flags/flag_kz.png
+   strings: 
+   - ':flag-kz:'
+- 
+   name: flag_la
+   location: assets/Flags/flag_la.png
+   strings: 
+   - ':flag-la:'
+- 
+   name: flag_lb
+   location: assets/Flags/flag_lb.png
+   strings: 
+   - ':flag-lb:'
+- 
+   name: flag_lc
+   location: assets/Flags/flag_lc.png
+   strings: 
+   - ':flag-lc:'
+- 
+   name: flag_li
+   location: assets/Flags/flag_li.png
+   strings: 
+   - ':flag-li:'
+- 
+   name: flag_lk
+   location: assets/Flags/flag_lk.png
+   strings: 
+   - ':flag-lk:'
+- 
+   name: flag_lr
+   location: assets/Flags/flag_lr.png
+   strings: 
+   - ':flag-lr:'
+- 
+   name: flag_ls
+   location: assets/Flags/flag_ls.png
+   strings: 
+   - ':flag-ls:'
+- 
+   name: flag_lt
+   location: assets/Flags/flag_lt.png
+   strings: 
+   - ':flag-lt:'
+- 
+   name: flag_lu
+   location: assets/Flags/flag_lu.png
+   strings: 
+   - ':flag-lu:'
+- 
+   name: flag_lv
+   location: assets/Flags/flag_lv.png
+   strings: 
+   - ':flag-lv:'
+- 
+   name: flag_ly
+   location: assets/Flags/flag_ly.png
+   strings: 
+   - ':flag-ly:'
+- 
+   name: flag_ma
+   location: assets/Flags/flag_ma.png
+   strings: 
+   - ':flag-ma:'
+- 
+   name: flag_mc
+   location: assets/Flags/flag_mc.png
+   strings: 
+   - ':flag-mc:'
+- 
+   name: flag_md
+   location: assets/Flags/flag_md.png
+   strings: 
+   - ':flag-md:'
+- 
+   name: flag_me
+   location: assets/Flags/flag_me.png
+   strings: 
+   - ':flag-me:'
+- 
+   name: flag_mf
+   location: assets/Flags/flag_mf.png
+   strings: 
+   - ':flag-mf:'
+- 
+   name: flag_mg
+   location: assets/Flags/flag_mg.png
+   strings: 
+   - ':flag-mg:'
+- 
+   name: flag_mh
+   location: assets/Flags/flag_mh.png
+   strings: 
+   - ':flag-mh:'
+- 
+   name: flag_mk
+   location: assets/Flags/flag_mk.png
+   strings: 
+   - ':flag-mk:'
+- 
+   name: flag_ml
+   location: assets/Flags/flag_ml.png
+   strings: 
+   - ':flag-ml:'
+- 
+   name: flag_mm
+   location: assets/Flags/flag_mm.png
+   strings: 
+   - ':flag-mm:'
+- 
+   name: flag_mn
+   location: assets/Flags/flag_mn.png
+   strings: 
+   - ':flag-mn:'
+- 
+   name: flag_mo
+   location: assets/Flags/flag_mo.png
+   strings: 
+   - ':flag-mo:'
+- 
+   name: flag_mp
+   location: assets/Flags/flag_mp.png
+   strings: 
+   - ':flag-mp:'
+- 
+   name: flag_mq
+   location: assets/Flags/flag_mq.png
+   strings: 
+   - ':flag-mq:'
+- 
+   name: flag_mr
+   location: assets/Flags/flag_mr.png
+   strings: 
+   - ':flag-mr:'
+- 
+   name: flag_ms
+   location: assets/Flags/flag_ms.png
+   strings: 
+   - ':flag-ms:'
+- 
+   name: flag_mt
+   location: assets/Flags/flag_mt.png
+   strings: 
+   - ':flag-mt:'
+- 
+   name: flag_mu
+   location: assets/Flags/flag_mu.png
+   strings: 
+   - ':flag-mu:'
+- 
+   name: flag_mv
+   location: assets/Flags/flag_mv.png
+   strings: 
+   - ':flag-mv:'
+- 
+   name: flag_mw
+   location: assets/Flags/flag_mw.png
+   strings: 
+   - ':flag-mw:'
+- 
+   name: flag_mx
+   location: assets/Flags/flag_mx.png
+   strings: 
+   - ':flag-mx:'
+- 
+   name: flag_my
+   location: assets/Flags/flag_my.png
+   strings: 
+   - ':flag-my:'
+- 
+   name: flag_mz
+   location: assets/Flags/flag_mz.png
+   strings: 
+   - ':flag-mz:'
+- 
+   name: flag_na
+   location: assets/Flags/flag_na.png
+   strings: 
+   - ':flag-na:'
+- 
+   name: flag_nc
+   location: assets/Flags/flag_nc.png
+   strings: 
+   - ':flag-nc:'
+- 
+   name: flag_ne
+   location: assets/Flags/flag_ne.png
+   strings: 
+   - ':flag-ne:'
+- 
+   name: flag_nf
+   location: assets/Flags/flag_nf.png
+   strings: 
+   - ':flag-nf:'
+- 
+   name: flag_ng
+   location: assets/Flags/flag_ng.png
+   strings: 
+   - ':flag-ng:'
+- 
+   name: flag_ni
+   location: assets/Flags/flag_ni.png
+   strings: 
+   - ':flag-ni:'
+- 
+   name: flag_nl
+   location: assets/Flags/flag_nl.png
+   strings: 
+   - ':flag-nl:'
+- 
+   name: flag_no
+   location: assets/Flags/flag_no.png
+   strings: 
+   - ':flag-no:'
+- 
+   name: flag_np
+   location: assets/Flags/flag_np.png
+   strings: 
+   - ':flag-np:'
+- 
+   name: flag_nr
+   location: assets/Flags/flag_nr.png
+   strings: 
+   - ':flag-nr:'
+- 
+   name: flag_nu
+   location: assets/Flags/flag_nu.png
+   strings: 
+   - ':flag-nu:'
+- 
+   name: flag_nz
+   location: assets/Flags/flag_nz.png
+   strings: 
+   - ':flag-nz:'
+- 
+   name: flag_om
+   location: assets/Flags/flag_om.png
+   strings: 
+   - ':flag-om:'
+- 
+   name: flag_pa
+   location: assets/Flags/flag_pa.png
+   strings: 
+   - ':flag-pa:'
+- 
+   name: flag_pe
+   location: assets/Flags/flag_pe.png
+   strings: 
+   - ':flag-pe:'
+- 
+   name: flag_pf
+   location: assets/Flags/flag_pf.png
+   strings: 
+   - ':flag-pf:'
+- 
+   name: flag_pg
+   location: assets/Flags/flag_pg.png
+   strings: 
+   - ':flag-pg:'
+- 
+   name: flag_ph
+   location: assets/Flags/flag_ph.png
+   strings: 
+   - ':flag-ph:'
+- 
+   name: flag_pk
+   location: assets/Flags/flag_pk.png
+   strings: 
+   - ':flag-pk:'
+- 
+   name: flag_pl
+   location: assets/Flags/flag_pl.png
+   strings: 
+   - ':flag-pl:'
+- 
+   name: flag_pm
+   location: assets/Flags/flag_pm.png
+   strings: 
+   - ':flag-pm:'
+- 
+   name: flag_pn
+   location: assets/Flags/flag_pn.png
+   strings: 
+   - ':flag-pn:'
+- 
+   name: flag_pr
+   location: assets/Flags/flag_pr.png
+   strings: 
+   - ':flag-pr:'
+- 
+   name: flag_ps
+   location: assets/Flags/flag_ps.png
+   strings: 
+   - ':flag-ps:'
+- 
+   name: flag_pt
+   location: assets/Flags/flag_pt.png
+   strings: 
+   - ':flag-pt:'
+- 
+   name: flag_pw
+   location: assets/Flags/flag_pw.png
+   strings: 
+   - ':flag-pw:'
+- 
+   name: flag_py
+   location: assets/Flags/flag_py.png
+   strings: 
+   - ':flag-py:'
+- 
+   name: flag_qa
+   location: assets/Flags/flag_qa.png
+   strings: 
+   - ':flag-qa:'
+- 
+   name: flag_re
+   location: assets/Flags/flag_re.png
+   strings: 
+   - ':flag-re:'
+- 
+   name: flag_ro
+   location: assets/Flags/flag_ro.png
+   strings: 
+   - ':flag-ro:'
+- 
+   name: flag_rs
+   location: assets/Flags/flag_rs.png
+   strings: 
+   - ':flag-rs:'
+- 
+   name: ru
+   location: assets/Flags/ru.png
+   strings: 
+   - ':ru:'
+   - ':flag-ru:'
+- 
+   name: flag_rw
+   location: assets/Flags/flag_rw.png
+   strings: 
+   - ':flag-rw:'
+- 
+   name: flag_sa
+   location: assets/Flags/flag_sa.png
+   strings: 
+   - ':flag-sa:'
+- 
+   name: flag_sb
+   location: assets/Flags/flag_sb.png
+   strings: 
+   - ':flag-sb:'
+- 
+   name: flag_sc
+   location: assets/Flags/flag_sc.png
+   strings: 
+   - ':flag-sc:'
+- 
+   name: flag_sd
+   location: assets/Flags/flag_sd.png
+   strings: 
+   - ':flag-sd:'
+- 
+   name: flag_se
+   location: assets/Flags/flag_se.png
+   strings: 
+   - ':flag-se:'
+- 
+   name: flag_sg
+   location: assets/Flags/flag_sg.png
+   strings: 
+   - ':flag-sg:'
+- 
+   name: flag_sh
+   location: assets/Flags/flag_sh.png
+   strings: 
+   - ':flag-sh:'
+- 
+   name: flag_si
+   location: assets/Flags/flag_si.png
+   strings: 
+   - ':flag-si:'
+- 
+   name: flag_sj
+   location: assets/Flags/flag_sj.png
+   strings: 
+   - ':flag-sj:'
+- 
+   name: flag_sk
+   location: assets/Flags/flag_sk.png
+   strings: 
+   - ':flag-sk:'
+- 
+   name: flag_sl
+   location: assets/Flags/flag_sl.png
+   strings: 
+   - ':flag-sl:'
+- 
+   name: flag_sm
+   location: assets/Flags/flag_sm.png
+   strings: 
+   - ':flag-sm:'
+- 
+   name: flag_sn
+   location: assets/Flags/flag_sn.png
+   strings: 
+   - ':flag-sn:'
+- 
+   name: flag_so
+   location: assets/Flags/flag_so.png
+   strings: 
+   - ':flag-so:'
+- 
+   name: flag_sr
+   location: assets/Flags/flag_sr.png
+   strings: 
+   - ':flag-sr:'
+- 
+   name: flag_ss
+   location: assets/Flags/flag_ss.png
+   strings: 
+   - ':flag-ss:'
+- 
+   name: flag_st
+   location: assets/Flags/flag_st.png
+   strings: 
+   - ':flag-st:'
+- 
+   name: flag_sv
+   location: assets/Flags/flag_sv.png
+   strings: 
+   - ':flag-sv:'
+- 
+   name: flag_sx
+   location: assets/Flags/flag_sx.png
+   strings: 
+   - ':flag-sx:'
+- 
+   name: flag_sy
+   location: assets/Flags/flag_sy.png
+   strings: 
+   - ':flag-sy:'
+- 
+   name: flag_sz
+   location: assets/Flags/flag_sz.png
+   strings: 
+   - ':flag-sz:'
+- 
+   name: flag_ta
+   location: assets/Flags/flag_ta.png
+   strings: 
+   - ':flag-ta:'
+- 
+   name: flag_tc
+   location: assets/Flags/flag_tc.png
+   strings: 
+   - ':flag-tc:'
+- 
+   name: flag_td
+   location: assets/Flags/flag_td.png
+   strings: 
+   - ':flag-td:'
+- 
+   name: flag_tf
+   location: assets/Flags/flag_tf.png
+   strings: 
+   - ':flag-tf:'
+- 
+   name: flag_tg
+   location: assets/Flags/flag_tg.png
+   strings: 
+   - ':flag-tg:'
+- 
+   name: flag_th
+   location: assets/Flags/flag_th.png
+   strings: 
+   - ':flag-th:'
+- 
+   name: flag_tj
+   location: assets/Flags/flag_tj.png
+   strings: 
+   - ':flag-tj:'
+- 
+   name: flag_tk
+   location: assets/Flags/flag_tk.png
+   strings: 
+   - ':flag-tk:'
+- 
+   name: flag_tl
+   location: assets/Flags/flag_tl.png
+   strings: 
+   - ':flag-tl:'
+- 
+   name: flag_tm
+   location: assets/Flags/flag_tm.png
+   strings: 
+   - ':flag-tm:'
+- 
+   name: flag_tn
+   location: assets/Flags/flag_tn.png
+   strings: 
+   - ':flag-tn:'
+- 
+   name: flag_to
+   location: assets/Flags/flag_to.png
+   strings: 
+   - ':flag-to:'
+- 
+   name: flag_tr
+   location: assets/Flags/flag_tr.png
+   strings: 
+   - ':flag-tr:'
+- 
+   name: flag_tt
+   location: assets/Flags/flag_tt.png
+   strings: 
+   - ':flag-tt:'
+- 
+   name: flag_tv
+   location: assets/Flags/flag_tv.png
+   strings: 
+   - ':flag-tv:'
+- 
+   name: flag_tw
+   location: assets/Flags/flag_tw.png
+   strings: 
+   - ':flag-tw:'
+- 
+   name: flag_tz
+   location: assets/Flags/flag_tz.png
+   strings: 
+   - ':flag-tz:'
+- 
+   name: flag_ua
+   location: assets/Flags/flag_ua.png
+   strings: 
+   - ':flag-ua:'
+- 
+   name: flag_ug
+   location: assets/Flags/flag_ug.png
+   strings: 
+   - ':flag-ug:'
+- 
+   name: flag_um
+   location: assets/Flags/flag_um.png
+   strings: 
+   - ':flag-um:'
+- 
+   name: flag_un
+   location: assets/Flags/flag_un.png
+   strings: 
+   - ':flag-un:'
+- 
+   name: us
+   location: assets/Flags/us.png
+   strings: 
+   - ':us:'
+   - ':flag-us:'
+- 
+   name: flag_uy
+   location: assets/Flags/flag_uy.png
+   strings: 
+   - ':flag-uy:'
+- 
+   name: flag_uz
+   location: assets/Flags/flag_uz.png
+   strings: 
+   - ':flag-uz:'
+- 
+   name: flag_va
+   location: assets/Flags/flag_va.png
+   strings: 
+   - ':flag-va:'
+- 
+   name: flag_vc
+   location: assets/Flags/flag_vc.png
+   strings: 
+   - ':flag-vc:'
+- 
+   name: flag_ve
+   location: assets/Flags/flag_ve.png
+   strings: 
+   - ':flag-ve:'
+- 
+   name: flag_vg
+   location: assets/Flags/flag_vg.png
+   strings: 
+   - ':flag-vg:'
+- 
+   name: flag_vi
+   location: assets/Flags/flag_vi.png
+   strings: 
+   - ':flag-vi:'
+- 
+   name: flag_vn
+   location: assets/Flags/flag_vn.png
+   strings: 
+   - ':flag-vn:'
+- 
+   name: flag_vu
+   location: assets/Flags/flag_vu.png
+   strings: 
+   - ':flag-vu:'
+- 
+   name: flag_wf
+   location: assets/Flags/flag_wf.png
+   strings: 
+   - ':flag-wf:'
+- 
+   name: flag_ws
+   location: assets/Flags/flag_ws.png
+   strings: 
+   - ':flag-ws:'
+- 
+   name: flag_xk
+   location: assets/Flags/flag_xk.png
+   strings: 
+   - ':flag-xk:'
+- 
+   name: flag_ye
+   location: assets/Flags/flag_ye.png
+   strings: 
+   - ':flag-ye:'
+- 
+   name: flag_yt
+   location: assets/Flags/flag_yt.png
+   strings: 
+   - ':flag-yt:'
+- 
+   name: flag_za
+   location: assets/Flags/flag_za.png
+   strings: 
+   - ':flag-za:'
+- 
+   name: flag_zm
+   location: assets/Flags/flag_zm.png
+   strings: 
+   - ':flag-zm:'
+- 
+   name: flag_zw
+   location: assets/Flags/flag_zw.png
+   strings: 
+   - ':flag-zw:'
+- 
+   name: flag_england
+   location: assets/Flags/flag_england.png
+   strings: 
+   - ':flag-england:'
+- 
+   name: flag_scotland
+   location: assets/Flags/flag_scotland.png
+   strings: 
+   - ':flag-scotland:'
+- 
+   name: flag_wales
+   location: assets/Flags/flag_wales.png
+   strings: 
+   - ':flag-wales:'

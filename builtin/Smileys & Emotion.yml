@@ -1,0 +1,843 @@
+- 
+   name: grinning
+   location: assets/Smileys & Emotion/grinning.png
+   strings: 
+   - ':grinning:'
+- 
+   name: smiley
+   location: assets/Smileys & Emotion/smiley.png
+   strings: 
+   - ':smiley:'
+- 
+   name: smile
+   location: assets/Smileys & Emotion/smile.png
+   strings: 
+   - ':smile:'
+- 
+   name: grin
+   location: assets/Smileys & Emotion/grin.png
+   strings: 
+   - ':grin:'
+- 
+   name: laughing
+   location: assets/Smileys & Emotion/laughing.png
+   strings: 
+   - ':laughing:'
+   - ':satisfied:'
+- 
+   name: sweat_smile
+   location: assets/Smileys & Emotion/sweat_smile.png
+   strings: 
+   - ':sweat_smile:'
+- 
+   name: rolling_on_the_floor_laughing
+   location: assets/Smileys & Emotion/rolling_on_the_floor_laughing.png
+   strings: 
+   - ':rolling_on_the_floor_laughing:'
+- 
+   name: joy
+   location: assets/Smileys & Emotion/joy.png
+   strings: 
+   - ':joy:'
+- 
+   name: slightly_smiling_face
+   location: assets/Smileys & Emotion/slightly_smiling_face.png
+   strings: 
+   - ':slightly_smiling_face:'
+- 
+   name: upside_down_face
+   location: assets/Smileys & Emotion/upside_down_face.png
+   strings: 
+   - ':upside_down_face:'
+- 
+   name: melting_face
+   location: assets/Smileys & Emotion/melting_face.png
+   strings: 
+   - ':melting_face:'
+- 
+   name: wink
+   location: assets/Smileys & Emotion/wink.png
+   strings: 
+   - ':wink:'
+- 
+   name: blush
+   location: assets/Smileys & Emotion/blush.png
+   strings: 
+   - ':blush:'
+- 
+   name: innocent
+   location: assets/Smileys & Emotion/innocent.png
+   strings: 
+   - ':innocent:'
+- 
+   name: smiling_face_with_3_hearts
+   location: assets/Smileys & Emotion/smiling_face_with_3_hearts.png
+   strings: 
+   - ':smiling_face_with_3_hearts:'
+- 
+   name: heart_eyes
+   location: assets/Smileys & Emotion/heart_eyes.png
+   strings: 
+   - ':heart_eyes:'
+- 
+   name: star_struck
+   location: assets/Smileys & Emotion/star_struck.png
+   strings: 
+   - ':star-struck:'
+   - ':grinning_face_with_star_eyes:'
+- 
+   name: kissing_heart
+   location: assets/Smileys & Emotion/kissing_heart.png
+   strings: 
+   - ':kissing_heart:'
+- 
+   name: kissing
+   location: assets/Smileys & Emotion/kissing.png
+   strings: 
+   - ':kissing:'
+- 
+   name: relaxed
+   location: assets/Smileys & Emotion/relaxed.png
+   strings: 
+   - ':relaxed:'
+- 
+   name: kissing_closed_eyes
+   location: assets/Smileys & Emotion/kissing_closed_eyes.png
+   strings: 
+   - ':kissing_closed_eyes:'
+- 
+   name: kissing_smiling_eyes
+   location: assets/Smileys & Emotion/kissing_smiling_eyes.png
+   strings: 
+   - ':kissing_smiling_eyes:'
+- 
+   name: smiling_face_with_tear
+   location: assets/Smileys & Emotion/smiling_face_with_tear.png
+   strings: 
+   - ':smiling_face_with_tear:'
+- 
+   name: yum
+   location: assets/Smileys & Emotion/yum.png
+   strings: 
+   - ':yum:'
+- 
+   name: stuck_out_tongue
+   location: assets/Smileys & Emotion/stuck_out_tongue.png
+   strings: 
+   - ':stuck_out_tongue:'
+- 
+   name: stuck_out_tongue_winking_eye
+   location: assets/Smileys & Emotion/stuck_out_tongue_winking_eye.png
+   strings: 
+   - ':stuck_out_tongue_winking_eye:'
+- 
+   name: zany_face
+   location: assets/Smileys & Emotion/zany_face.png
+   strings: 
+   - ':zany_face:'
+   - ':grinning_face_with_one_large_and_one_small_eye:'
+- 
+   name: stuck_out_tongue_closed_eyes
+   location: assets/Smileys & Emotion/stuck_out_tongue_closed_eyes.png
+   strings: 
+   - ':stuck_out_tongue_closed_eyes:'
+- 
+   name: money_mouth_face
+   location: assets/Smileys & Emotion/money_mouth_face.png
+   strings: 
+   - ':money_mouth_face:'
+- 
+   name: hugging_face
+   location: assets/Smileys & Emotion/hugging_face.png
+   strings: 
+   - ':hugging_face:'
+- 
+   name: face_with_hand_over_mouth
+   location: assets/Smileys & Emotion/face_with_hand_over_mouth.png
+   strings: 
+   - ':face_with_hand_over_mouth:'
+   - ':smiling_face_with_smiling_eyes_and_hand_covering_mouth:'
+- 
+   name: face_with_open_eyes_and_hand_over_mouth
+   location: assets/Smileys & Emotion/face_with_open_eyes_and_hand_over_mouth.png
+   strings: 
+   - ':face_with_open_eyes_and_hand_over_mouth:'
+- 
+   name: face_with_peeking_eye
+   location: assets/Smileys & Emotion/face_with_peeking_eye.png
+   strings: 
+   - ':face_with_peeking_eye:'
+- 
+   name: shushing_face
+   location: assets/Smileys & Emotion/shushing_face.png
+   strings: 
+   - ':shushing_face:'
+   - ':face_with_finger_covering_closed_lips:'
+- 
+   name: thinking_face
+   location: assets/Smileys & Emotion/thinking_face.png
+   strings: 
+   - ':thinking_face:'
+- 
+   name: saluting_face
+   location: assets/Smileys & Emotion/saluting_face.png
+   strings: 
+   - ':saluting_face:'
+- 
+   name: zipper_mouth_face
+   location: assets/Smileys & Emotion/zipper_mouth_face.png
+   strings: 
+   - ':zipper_mouth_face:'
+- 
+   name: face_with_raised_eyebrow
+   location: assets/Smileys & Emotion/face_with_raised_eyebrow.png
+   strings: 
+   - ':face_with_raised_eyebrow:'
+   - ':face_with_one_eyebrow_raised:'
+- 
+   name: neutral_face
+   location: assets/Smileys & Emotion/neutral_face.png
+   strings: 
+   - ':neutral_face:'
+- 
+   name: expressionless
+   location: assets/Smileys & Emotion/expressionless.png
+   strings: 
+   - ':expressionless:'
+- 
+   name: no_mouth
+   location: assets/Smileys & Emotion/no_mouth.png
+   strings: 
+   - ':no_mouth:'
+- 
+   name: dotted_line_face
+   location: assets/Smileys & Emotion/dotted_line_face.png
+   strings: 
+   - ':dotted_line_face:'
+- 
+   name: face_in_clouds
+   location: assets/Smileys & Emotion/face_in_clouds.png
+   strings: 
+   - ':face_in_clouds:'
+- 
+   name: smirk
+   location: assets/Smileys & Emotion/smirk.png
+   strings: 
+   - ':smirk:'
+- 
+   name: unamused
+   location: assets/Smileys & Emotion/unamused.png
+   strings: 
+   - ':unamused:'
+- 
+   name: face_with_rolling_eyes
+   location: assets/Smileys & Emotion/face_with_rolling_eyes.png
+   strings: 
+   - ':face_with_rolling_eyes:'
+- 
+   name: grimacing
+   location: assets/Smileys & Emotion/grimacing.png
+   strings: 
+   - ':grimacing:'
+- 
+   name: face_exhaling
+   location: assets/Smileys & Emotion/face_exhaling.png
+   strings: 
+   - ':face_exhaling:'
+- 
+   name: lying_face
+   location: assets/Smileys & Emotion/lying_face.png
+   strings: 
+   - ':lying_face:'
+- 
+   name: shaking_face
+   location: assets/Smileys & Emotion/shaking_face.png
+   strings: 
+   - ':shaking_face:'
+- 
+   name: relieved
+   location: assets/Smileys & Emotion/relieved.png
+   strings: 
+   - ':relieved:'
+- 
+   name: pensive
+   location: assets/Smileys & Emotion/pensive.png
+   strings: 
+   - ':pensive:'
+- 
+   name: sleepy
+   location: assets/Smileys & Emotion/sleepy.png
+   strings: 
+   - ':sleepy:'
+- 
+   name: drooling_face
+   location: assets/Smileys & Emotion/drooling_face.png
+   strings: 
+   - ':drooling_face:'
+- 
+   name: sleeping
+   location: assets/Smileys & Emotion/sleeping.png
+   strings: 
+   - ':sleeping:'
+- 
+   name: mask
+   location: assets/Smileys & Emotion/mask.png
+   strings: 
+   - ':mask:'
+- 
+   name: face_with_thermometer
+   location: assets/Smileys & Emotion/face_with_thermometer.png
+   strings: 
+   - ':face_with_thermometer:'
+- 
+   name: face_with_head_bandage
+   location: assets/Smileys & Emotion/face_with_head_bandage.png
+   strings: 
+   - ':face_with_head_bandage:'
+- 
+   name: nauseated_face
+   location: assets/Smileys & Emotion/nauseated_face.png
+   strings: 
+   - ':nauseated_face:'
+- 
+   name: face_vomiting
+   location: assets/Smileys & Emotion/face_vomiting.png
+   strings: 
+   - ':face_vomiting:'
+   - ':face_with_open_mouth_vomiting:'
+- 
+   name: sneezing_face
+   location: assets/Smileys & Emotion/sneezing_face.png
+   strings: 
+   - ':sneezing_face:'
+- 
+   name: hot_face
+   location: assets/Smileys & Emotion/hot_face.png
+   strings: 
+   - ':hot_face:'
+- 
+   name: cold_face
+   location: assets/Smileys & Emotion/cold_face.png
+   strings: 
+   - ':cold_face:'
+- 
+   name: woozy_face
+   location: assets/Smileys & Emotion/woozy_face.png
+   strings: 
+   - ':woozy_face:'
+- 
+   name: dizzy_face
+   location: assets/Smileys & Emotion/dizzy_face.png
+   strings: 
+   - ':dizzy_face:'
+- 
+   name: face_with_spiral_eyes
+   location: assets/Smileys & Emotion/face_with_spiral_eyes.png
+   strings: 
+   - ':face_with_spiral_eyes:'
+- 
+   name: exploding_head
+   location: assets/Smileys & Emotion/exploding_head.png
+   strings: 
+   - ':exploding_head:'
+   - ':shocked_face_with_exploding_head:'
+- 
+   name: face_with_cowboy_hat
+   location: assets/Smileys & Emotion/face_with_cowboy_hat.png
+   strings: 
+   - ':face_with_cowboy_hat:'
+- 
+   name: partying_face
+   location: assets/Smileys & Emotion/partying_face.png
+   strings: 
+   - ':partying_face:'
+- 
+   name: disguised_face
+   location: assets/Smileys & Emotion/disguised_face.png
+   strings: 
+   - ':disguised_face:'
+- 
+   name: sunglasses
+   location: assets/Smileys & Emotion/sunglasses.png
+   strings: 
+   - ':sunglasses:'
+- 
+   name: nerd_face
+   location: assets/Smileys & Emotion/nerd_face.png
+   strings: 
+   - ':nerd_face:'
+- 
+   name: face_with_monocle
+   location: assets/Smileys & Emotion/face_with_monocle.png
+   strings: 
+   - ':face_with_monocle:'
+- 
+   name: confused
+   location: assets/Smileys & Emotion/confused.png
+   strings: 
+   - ':confused:'
+- 
+   name: face_with_diagonal_mouth
+   location: assets/Smileys & Emotion/face_with_diagonal_mouth.png
+   strings: 
+   - ':face_with_diagonal_mouth:'
+- 
+   name: worried
+   location: assets/Smileys & Emotion/worried.png
+   strings: 
+   - ':worried:'
+- 
+   name: slightly_frowning_face
+   location: assets/Smileys & Emotion/slightly_frowning_face.png
+   strings: 
+   - ':slightly_frowning_face:'
+- 
+   name: white_frowning_face
+   location: assets/Smileys & Emotion/white_frowning_face.png
+   strings: 
+   - ':white_frowning_face:'
+- 
+   name: open_mouth
+   location: assets/Smileys & Emotion/open_mouth.png
+   strings: 
+   - ':open_mouth:'
+- 
+   name: hushed
+   location: assets/Smileys & Emotion/hushed.png
+   strings: 
+   - ':hushed:'
+- 
+   name: astonished
+   location: assets/Smileys & Emotion/astonished.png
+   strings: 
+   - ':astonished:'
+- 
+   name: flushed
+   location: assets/Smileys & Emotion/flushed.png
+   strings: 
+   - ':flushed:'
+- 
+   name: pleading_face
+   location: assets/Smileys & Emotion/pleading_face.png
+   strings: 
+   - ':pleading_face:'
+- 
+   name: face_holding_back_tears
+   location: assets/Smileys & Emotion/face_holding_back_tears.png
+   strings: 
+   - ':face_holding_back_tears:'
+- 
+   name: frowning
+   location: assets/Smileys & Emotion/frowning.png
+   strings: 
+   - ':frowning:'
+- 
+   name: anguished
+   location: assets/Smileys & Emotion/anguished.png
+   strings: 
+   - ':anguished:'
+- 
+   name: fearful
+   location: assets/Smileys & Emotion/fearful.png
+   strings: 
+   - ':fearful:'
+- 
+   name: cold_sweat
+   location: assets/Smileys & Emotion/cold_sweat.png
+   strings: 
+   - ':cold_sweat:'
+- 
+   name: disappointed_relieved
+   location: assets/Smileys & Emotion/disappointed_relieved.png
+   strings: 
+   - ':disappointed_relieved:'
+- 
+   name: cry
+   location: assets/Smileys & Emotion/cry.png
+   strings: 
+   - ':cry:'
+- 
+   name: sob
+   location: assets/Smileys & Emotion/sob.png
+   strings: 
+   - ':sob:'
+- 
+   name: scream
+   location: assets/Smileys & Emotion/scream.png
+   strings: 
+   - ':scream:'
+- 
+   name: confounded
+   location: assets/Smileys & Emotion/confounded.png
+   strings: 
+   - ':confounded:'
+- 
+   name: persevere
+   location: assets/Smileys & Emotion/persevere.png
+   strings: 
+   - ':persevere:'
+- 
+   name: disappointed
+   location: assets/Smileys & Emotion/disappointed.png
+   strings: 
+   - ':disappointed:'
+- 
+   name: sweat
+   location: assets/Smileys & Emotion/sweat.png
+   strings: 
+   - ':sweat:'
+- 
+   name: weary
+   location: assets/Smileys & Emotion/weary.png
+   strings: 
+   - ':weary:'
+- 
+   name: tired_face
+   location: assets/Smileys & Emotion/tired_face.png
+   strings: 
+   - ':tired_face:'
+- 
+   name: yawning_face
+   location: assets/Smileys & Emotion/yawning_face.png
+   strings: 
+   - ':yawning_face:'
+- 
+   name: triumph
+   location: assets/Smileys & Emotion/triumph.png
+   strings: 
+   - ':triumph:'
+- 
+   name: rage
+   location: assets/Smileys & Emotion/rage.png
+   strings: 
+   - ':rage:'
+- 
+   name: angry
+   location: assets/Smileys & Emotion/angry.png
+   strings: 
+   - ':angry:'
+- 
+   name: face_with_symbols_on_mouth
+   location: assets/Smileys & Emotion/face_with_symbols_on_mouth.png
+   strings: 
+   - ':face_with_symbols_on_mouth:'
+   - ':serious_face_with_symbols_covering_mouth:'
+   - ':swear:'
+- 
+   name: smiling_imp
+   location: assets/Smileys & Emotion/smiling_imp.png
+   strings: 
+   - ':smiling_imp:'
+- 
+   name: imp
+   location: assets/Smileys & Emotion/imp.png
+   strings: 
+   - ':imp:'
+- 
+   name: skull
+   location: assets/Smileys & Emotion/skull.png
+   strings: 
+   - ':skull:'
+- 
+   name: skull_and_crossbones
+   location: assets/Smileys & Emotion/skull_and_crossbones.png
+   strings: 
+   - ':skull_and_crossbones:'
+- 
+   name: hankey
+   location: assets/Smileys & Emotion/hankey.png
+   strings: 
+   - ':hankey:'
+   - ':poop:'
+   - ':shit:'
+- 
+   name: clown_face
+   location: assets/Smileys & Emotion/clown_face.png
+   strings: 
+   - ':clown_face:'
+- 
+   name: japanese_ogre
+   location: assets/Smileys & Emotion/japanese_ogre.png
+   strings: 
+   - ':japanese_ogre:'
+- 
+   name: japanese_goblin
+   location: assets/Smileys & Emotion/japanese_goblin.png
+   strings: 
+   - ':japanese_goblin:'
+- 
+   name: ghost
+   location: assets/Smileys & Emotion/ghost.png
+   strings: 
+   - ':ghost:'
+- 
+   name: alien
+   location: assets/Smileys & Emotion/alien.png
+   strings: 
+   - ':alien:'
+- 
+   name: space_invader
+   location: assets/Smileys & Emotion/space_invader.png
+   strings: 
+   - ':space_invader:'
+- 
+   name: robot_face
+   location: assets/Smileys & Emotion/robot_face.png
+   strings: 
+   - ':robot_face:'
+- 
+   name: smiley_cat
+   location: assets/Smileys & Emotion/smiley_cat.png
+   strings: 
+   - ':smiley_cat:'
+- 
+   name: smile_cat
+   location: assets/Smileys & Emotion/smile_cat.png
+   strings: 
+   - ':smile_cat:'
+- 
+   name: joy_cat
+   location: assets/Smileys & Emotion/joy_cat.png
+   strings: 
+   - ':joy_cat:'
+- 
+   name: heart_eyes_cat
+   location: assets/Smileys & Emotion/heart_eyes_cat.png
+   strings: 
+   - ':heart_eyes_cat:'
+- 
+   name: smirk_cat
+   location: assets/Smileys & Emotion/smirk_cat.png
+   strings: 
+   - ':smirk_cat:'
+- 
+   name: kissing_cat
+   location: assets/Smileys & Emotion/kissing_cat.png
+   strings: 
+   - ':kissing_cat:'
+- 
+   name: scream_cat
+   location: assets/Smileys & Emotion/scream_cat.png
+   strings: 
+   - ':scream_cat:'
+- 
+   name: crying_cat_face
+   location: assets/Smileys & Emotion/crying_cat_face.png
+   strings: 
+   - ':crying_cat_face:'
+- 
+   name: pouting_cat
+   location: assets/Smileys & Emotion/pouting_cat.png
+   strings: 
+   - ':pouting_cat:'
+- 
+   name: see_no_evil
+   location: assets/Smileys & Emotion/see_no_evil.png
+   strings: 
+   - ':see_no_evil:'
+- 
+   name: hear_no_evil
+   location: assets/Smileys & Emotion/hear_no_evil.png
+   strings: 
+   - ':hear_no_evil:'
+- 
+   name: speak_no_evil
+   location: assets/Smileys & Emotion/speak_no_evil.png
+   strings: 
+   - ':speak_no_evil:'
+- 
+   name: love_letter
+   location: assets/Smileys & Emotion/love_letter.png
+   strings: 
+   - ':love_letter:'
+- 
+   name: cupid
+   location: assets/Smileys & Emotion/cupid.png
+   strings: 
+   - ':cupid:'
+- 
+   name: gift_heart
+   location: assets/Smileys & Emotion/gift_heart.png
+   strings: 
+   - ':gift_heart:'
+- 
+   name: sparkling_heart
+   location: assets/Smileys & Emotion/sparkling_heart.png
+   strings: 
+   - ':sparkling_heart:'
+- 
+   name: heartpulse
+   location: assets/Smileys & Emotion/heartpulse.png
+   strings: 
+   - ':heartpulse:'
+- 
+   name: heartbeat
+   location: assets/Smileys & Emotion/heartbeat.png
+   strings: 
+   - ':heartbeat:'
+- 
+   name: revolving_hearts
+   location: assets/Smileys & Emotion/revolving_hearts.png
+   strings: 
+   - ':revolving_hearts:'
+- 
+   name: two_hearts
+   location: assets/Smileys & Emotion/two_hearts.png
+   strings: 
+   - ':two_hearts:'
+- 
+   name: heart_decoration
+   location: assets/Smileys & Emotion/heart_decoration.png
+   strings: 
+   - ':heart_decoration:'
+- 
+   name: heavy_heart_exclamation_mark_ornament
+   location: assets/Smileys & Emotion/heavy_heart_exclamation_mark_ornament.png
+   strings: 
+   - ':heavy_heart_exclamation_mark_ornament:'
+- 
+   name: broken_heart
+   location: assets/Smileys & Emotion/broken_heart.png
+   strings: 
+   - ':broken_heart:'
+- 
+   name: heart_on_fire
+   location: assets/Smileys & Emotion/heart_on_fire.png
+   strings: 
+   - ':heart_on_fire:'
+- 
+   name: mending_heart
+   location: assets/Smileys & Emotion/mending_heart.png
+   strings: 
+   - ':mending_heart:'
+- 
+   name: heart
+   location: assets/Smileys & Emotion/heart.png
+   strings: 
+   - ':heart:'
+- 
+   name: pink_heart
+   location: assets/Smileys & Emotion/pink_heart.png
+   strings: 
+   - ':pink_heart:'
+- 
+   name: orange_heart
+   location: assets/Smileys & Emotion/orange_heart.png
+   strings: 
+   - ':orange_heart:'
+- 
+   name: yellow_heart
+   location: assets/Smileys & Emotion/yellow_heart.png
+   strings: 
+   - ':yellow_heart:'
+- 
+   name: green_heart
+   location: assets/Smileys & Emotion/green_heart.png
+   strings: 
+   - ':green_heart:'
+- 
+   name: blue_heart
+   location: assets/Smileys & Emotion/blue_heart.png
+   strings: 
+   - ':blue_heart:'
+- 
+   name: light_blue_heart
+   location: assets/Smileys & Emotion/light_blue_heart.png
+   strings: 
+   - ':light_blue_heart:'
+- 
+   name: purple_heart
+   location: assets/Smileys & Emotion/purple_heart.png
+   strings: 
+   - ':purple_heart:'
+- 
+   name: brown_heart
+   location: assets/Smileys & Emotion/brown_heart.png
+   strings: 
+   - ':brown_heart:'
+- 
+   name: black_heart
+   location: assets/Smileys & Emotion/black_heart.png
+   strings: 
+   - ':black_heart:'
+- 
+   name: grey_heart
+   location: assets/Smileys & Emotion/grey_heart.png
+   strings: 
+   - ':grey_heart:'
+- 
+   name: white_heart
+   location: assets/Smileys & Emotion/white_heart.png
+   strings: 
+   - ':white_heart:'
+- 
+   name: kiss
+   location: assets/Smileys & Emotion/kiss.png
+   strings: 
+   - ':kiss:'
+- 
+   name: 100
+   location: assets/Smileys & Emotion/100.png
+   strings: 
+   - ':100:'
+- 
+   name: anger
+   location: assets/Smileys & Emotion/anger.png
+   strings: 
+   - ':anger:'
+- 
+   name: boom
+   location: assets/Smileys & Emotion/boom.png
+   strings: 
+   - ':boom:'
+   - ':collision:'
+- 
+   name: dizzy
+   location: assets/Smileys & Emotion/dizzy.png
+   strings: 
+   - ':dizzy:'
+- 
+   name: sweat_drops
+   location: assets/Smileys & Emotion/sweat_drops.png
+   strings: 
+   - ':sweat_drops:'
+- 
+   name: dash
+   location: assets/Smileys & Emotion/dash.png
+   strings: 
+   - ':dash:'
+- 
+   name: hole
+   location: assets/Smileys & Emotion/hole.png
+   strings: 
+   - ':hole:'
+- 
+   name: speech_balloon
+   location: assets/Smileys & Emotion/speech_balloon.png
+   strings: 
+   - ':speech_balloon:'
+- 
+   name: eye_in_speech_bubble
+   location: assets/Smileys & Emotion/eye_in_speech_bubble.png
+   strings: 
+   - ':eye-in-speech-bubble:'
+- 
+   name: left_speech_bubble
+   location: assets/Smileys & Emotion/left_speech_bubble.png
+   strings: 
+   - ':left_speech_bubble:'
+- 
+   name: right_anger_bubble
+   location: assets/Smileys & Emotion/right_anger_bubble.png
+   strings: 
+   - ':right_anger_bubble:'
+- 
+   name: thought_balloon
+   location: assets/Smileys & Emotion/thought_balloon.png
+   strings: 
+   - ':thought_balloon:'
+- 
+   name: zzz
+   location: assets/Smileys & Emotion/zzz.png
+   strings: 
+   - ':zzz:'

@@ -1,0 +1,25 @@
+- 
+   name: skin_tone_2
+   location: assets/Component/skin_tone_2.png
+   strings: 
+   - ':skin-tone-2:'
+- 
+   name: skin_tone_3
+   location: assets/Component/skin_tone_3.png
+   strings: 
+   - ':skin-tone-3:'
+- 
+   name: skin_tone_4
+   location: assets/Component/skin_tone_4.png
+   strings: 
+   - ':skin-tone-4:'
+- 
+   name: skin_tone_5
+   location: assets/Component/skin_tone_5.png
+   strings: 
+   - ':skin-tone-5:'
+- 
+   name: skin_tone_6
+   location: assets/Component/skin_tone_6.png
+   strings: 
+   - ':skin-tone-6:'

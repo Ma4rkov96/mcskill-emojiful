@@ -1,0 +1,1117 @@
+- 
+   name: atm
+   location: assets/Symbols/atm.png
+   strings: 
+   - ':atm:'
+- 
+   name: put_litter_in_its_place
+   location: assets/Symbols/put_litter_in_its_place.png
+   strings: 
+   - ':put_litter_in_its_place:'
+- 
+   name: potable_water
+   location: assets/Symbols/potable_water.png
+   strings: 
+   - ':potable_water:'
+- 
+   name: wheelchair
+   location: assets/Symbols/wheelchair.png
+   strings: 
+   - ':wheelchair:'
+- 
+   name: mens
+   location: assets/Symbols/mens.png
+   strings: 
+   - ':mens:'
+- 
+   name: womens
+   location: assets/Symbols/womens.png
+   strings: 
+   - ':womens:'
+- 
+   name: restroom
+   location: assets/Symbols/restroom.png
+   strings: 
+   - ':restroom:'
+- 
+   name: baby_symbol
+   location: assets/Symbols/baby_symbol.png
+   strings: 
+   - ':baby_symbol:'
+- 
+   name: wc
+   location: assets/Symbols/wc.png
+   strings: 
+   - ':wc:'
+- 
+   name: passport_control
+   location: assets/Symbols/passport_control.png
+   strings: 
+   - ':passport_control:'
+- 
+   name: customs
+   location: assets/Symbols/customs.png
+   strings: 
+   - ':customs:'
+- 
+   name: baggage_claim
+   location: assets/Symbols/baggage_claim.png
+   strings: 
+   - ':baggage_claim:'
+- 
+   name: left_luggage
+   location: assets/Symbols/left_luggage.png
+   strings: 
+   - ':left_luggage:'
+- 
+   name: warning
+   location: assets/Symbols/warning.png
+   strings: 
+   - ':warning:'
+- 
+   name: children_crossing
+   location: assets/Symbols/children_crossing.png
+   strings: 
+   - ':children_crossing:'
+- 
+   name: no_entry
+   location: assets/Symbols/no_entry.png
+   strings: 
+   - ':no_entry:'
+- 
+   name: no_entry_sign
+   location: assets/Symbols/no_entry_sign.png
+   strings: 
+   - ':no_entry_sign:'
+- 
+   name: no_bicycles
+   location: assets/Symbols/no_bicycles.png
+   strings: 
+   - ':no_bicycles:'
+- 
+   name: no_smoking
+   location: assets/Symbols/no_smoking.png
+   strings: 
+   - ':no_smoking:'
+- 
+   name: do_not_litter
+   location: assets/Symbols/do_not_litter.png
+   strings: 
+   - ':do_not_litter:'
+- 
+   name: non_potable_water
+   location: assets/Symbols/non_potable_water.png
+   strings: 
+   - ':non-potable_water:'
+- 
+   name: no_pedestrians
+   location: assets/Symbols/no_pedestrians.png
+   strings: 
+   - ':no_pedestrians:'
+- 
+   name: no_mobile_phones
+   location: assets/Symbols/no_mobile_phones.png
+   strings: 
+   - ':no_mobile_phones:'
+- 
+   name: underage
+   location: assets/Symbols/underage.png
+   strings: 
+   - ':underage:'
+- 
+   name: radioactive_sign
+   location: assets/Symbols/radioactive_sign.png
+   strings: 
+   - ':radioactive_sign:'
+- 
+   name: biohazard_sign
+   location: assets/Symbols/biohazard_sign.png
+   strings: 
+   - ':biohazard_sign:'
+- 
+   name: arrow_up
+   location: assets/Symbols/arrow_up.png
+   strings: 
+   - ':arrow_up:'
+- 
+   name: arrow_upper_right
+   location: assets/Symbols/arrow_upper_right.png
+   strings: 
+   - ':arrow_upper_right:'
+- 
+   name: arrow_right
+   location: assets/Symbols/arrow_right.png
+   strings: 
+   - ':arrow_right:'
+- 
+   name: arrow_lower_right
+   location: assets/Symbols/arrow_lower_right.png
+   strings: 
+   - ':arrow_lower_right:'
+- 
+   name: arrow_down
+   location: assets/Symbols/arrow_down.png
+   strings: 
+   - ':arrow_down:'
+- 
+   name: arrow_lower_left
+   location: assets/Symbols/arrow_lower_left.png
+   strings: 
+   - ':arrow_lower_left:'
+- 
+   name: arrow_left
+   location: assets/Symbols/arrow_left.png
+   strings: 
+   - ':arrow_left:'
+- 
+   name: arrow_upper_left
+   location: assets/Symbols/arrow_upper_left.png
+   strings: 
+   - ':arrow_upper_left:'
+- 
+   name: arrow_up_down
+   location: assets/Symbols/arrow_up_down.png
+   strings: 
+   - ':arrow_up_down:'
+- 
+   name: left_right_arrow
+   location: assets/Symbols/left_right_arrow.png
+   strings: 
+   - ':left_right_arrow:'
+- 
+   name: leftwards_arrow_with_hook
+   location: assets/Symbols/leftwards_arrow_with_hook.png
+   strings: 
+   - ':leftwards_arrow_with_hook:'
+- 
+   name: arrow_right_hook
+   location: assets/Symbols/arrow_right_hook.png
+   strings: 
+   - ':arrow_right_hook:'
+- 
+   name: arrow_heading_up
+   location: assets/Symbols/arrow_heading_up.png
+   strings: 
+   - ':arrow_heading_up:'
+- 
+   name: arrow_heading_down
+   location: assets/Symbols/arrow_heading_down.png
+   strings: 
+   - ':arrow_heading_down:'
+- 
+   name: arrows_clockwise
+   location: assets/Symbols/arrows_clockwise.png
+   strings: 
+   - ':arrows_clockwise:'
+- 
+   name: arrows_counterclockwise
+   location: assets/Symbols/arrows_counterclockwise.png
+   strings: 
+   - ':arrows_counterclockwise:'
+- 
+   name: back
+   location: assets/Symbols/back.png
+   strings: 
+   - ':back:'
+- 
+   name: end
+   location: assets/Symbols/end.png
+   strings: 
+   - ':end:'
+- 
+   name: on
+   location: assets/Symbols/on.png
+   strings: 
+   - ':on:'
+- 
+   name: soon
+   location: assets/Symbols/soon.png
+   strings: 
+   - ':soon:'
+- 
+   name: top
+   location: assets/Symbols/top.png
+   strings: 
+   - ':top:'
+- 
+   name: place_of_worship
+   location: assets/Symbols/place_of_worship.png
+   strings: 
+   - ':place_of_worship:'
+- 
+   name: atom_symbol
+   location: assets/Symbols/atom_symbol.png
+   strings: 
+   - ':atom_symbol:'
+- 
+   name: om_symbol
+   location: assets/Symbols/om_symbol.png
+   strings: 
+   - ':om_symbol:'
+- 
+   name: star_of_david
+   location: assets/Symbols/star_of_david.png
+   strings: 
+   - ':star_of_david:'
+- 
+   name: wheel_of_dharma
+   location: assets/Symbols/wheel_of_dharma.png
+   strings: 
+   - ':wheel_of_dharma:'
+- 
+   name: yin_yang
+   location: assets/Symbols/yin_yang.png
+   strings: 
+   - ':yin_yang:'
+- 
+   name: latin_cross
+   location: assets/Symbols/latin_cross.png
+   strings: 
+   - ':latin_cross:'
+- 
+   name: orthodox_cross
+   location: assets/Symbols/orthodox_cross.png
+   strings: 
+   - ':orthodox_cross:'
+- 
+   name: star_and_crescent
+   location: assets/Symbols/star_and_crescent.png
+   strings: 
+   - ':star_and_crescent:'
+- 
+   name: peace_symbol
+   location: assets/Symbols/peace_symbol.png
+   strings: 
+   - ':peace_symbol:'
+- 
+   name: menorah_with_nine_branches
+   location: assets/Symbols/menorah_with_nine_branches.png
+   strings: 
+   - ':menorah_with_nine_branches:'
+- 
+   name: six_pointed_star
+   location: assets/Symbols/six_pointed_star.png
+   strings: 
+   - ':six_pointed_star:'
+- 
+   name: khanda
+   location: assets/Symbols/khanda.png
+   strings: 
+   - ':khanda:'
+- 
+   name: aries
+   location: assets/Symbols/aries.png
+   strings: 
+   - ':aries:'
+- 
+   name: taurus
+   location: assets/Symbols/taurus.png
+   strings: 
+   - ':taurus:'
+- 
+   name: gemini
+   location: assets/Symbols/gemini.png
+   strings: 
+   - ':gemini:'
+- 
+   name: cancer
+   location: assets/Symbols/cancer.png
+   strings: 
+   - ':cancer:'
+- 
+   name: leo
+   location: assets/Symbols/leo.png
+   strings: 
+   - ':leo:'
+- 
+   name: virgo
+   location: assets/Symbols/virgo.png
+   strings: 
+   - ':virgo:'
+- 
+   name: libra
+   location: assets/Symbols/libra.png
+   strings: 
+   - ':libra:'
+- 
+   name: scorpius
+   location: assets/Symbols/scorpius.png
+   strings: 
+   - ':scorpius:'
+- 
+   name: sagittarius
+   location: assets/Symbols/sagittarius.png
+   strings: 
+   - ':sagittarius:'
+- 
+   name: capricorn
+   location: assets/Symbols/capricorn.png
+   strings: 
+   - ':capricorn:'
+- 
+   name: aquarius
+   location: assets/Symbols/aquarius.png
+   strings: 
+   - ':aquarius:'
+- 
+   name: pisces
+   location: assets/Symbols/pisces.png
+   strings: 
+   - ':pisces:'
+- 
+   name: ophiuchus
+   location: assets/Symbols/ophiuchus.png
+   strings: 
+   - ':ophiuchus:'
+- 
+   name: twisted_rightwards_arrows
+   location: assets/Symbols/twisted_rightwards_arrows.png
+   strings: 
+   - ':twisted_rightwards_arrows:'
+- 
+   name: repeat
+   location: assets/Symbols/repeat.png
+   strings: 
+   - ':repeat:'
+- 
+   name: repeat_one
+   location: assets/Symbols/repeat_one.png
+   strings: 
+   - ':repeat_one:'
+- 
+   name: arrow_forward
+   location: assets/Symbols/arrow_forward.png
+   strings: 
+   - ':arrow_forward:'
+- 
+   name: fast_forward
+   location: assets/Symbols/fast_forward.png
+   strings: 
+   - ':fast_forward:'
+- 
+   name: black_right_pointing_double_triangle_with_vertical_bar
+   location: assets/Symbols/black_right_pointing_double_triangle_with_vertical_bar.png
+   strings: 
+   - ':black_right_pointing_double_triangle_with_vertical_bar:'
+- 
+   name: black_right_pointing_triangle_with_double_vertical_bar
+   location: assets/Symbols/black_right_pointing_triangle_with_double_vertical_bar.png
+   strings: 
+   - ':black_right_pointing_triangle_with_double_vertical_bar:'
+- 
+   name: arrow_backward
+   location: assets/Symbols/arrow_backward.png
+   strings: 
+   - ':arrow_backward:'
+- 
+   name: rewind
+   location: assets/Symbols/rewind.png
+   strings: 
+   - ':rewind:'
+- 
+   name: black_left_pointing_double_triangle_with_vertical_bar
+   location: assets/Symbols/black_left_pointing_double_triangle_with_vertical_bar.png
+   strings: 
+   - ':black_left_pointing_double_triangle_with_vertical_bar:'
+- 
+   name: arrow_up_small
+   location: assets/Symbols/arrow_up_small.png
+   strings: 
+   - ':arrow_up_small:'
+- 
+   name: arrow_double_up
+   location: assets/Symbols/arrow_double_up.png
+   strings: 
+   - ':arrow_double_up:'
+- 
+   name: arrow_down_small
+   location: assets/Symbols/arrow_down_small.png
+   strings: 
+   - ':arrow_down_small:'
+- 
+   name: arrow_double_down
+   location: assets/Symbols/arrow_double_down.png
+   strings: 
+   - ':arrow_double_down:'
+- 
+   name: double_vertical_bar
+   location: assets/Symbols/double_vertical_bar.png
+   strings: 
+   - ':double_vertical_bar:'
+- 
+   name: black_square_for_stop
+   location: assets/Symbols/black_square_for_stop.png
+   strings: 
+   - ':black_square_for_stop:'
+- 
+   name: black_circle_for_record
+   location: assets/Symbols/black_circle_for_record.png
+   strings: 
+   - ':black_circle_for_record:'
+- 
+   name: eject
+   location: assets/Symbols/eject.png
+   strings: 
+   - ':eject:'
+- 
+   name: cinema
+   location: assets/Symbols/cinema.png
+   strings: 
+   - ':cinema:'
+- 
+   name: low_brightness
+   location: assets/Symbols/low_brightness.png
+   strings: 
+   - ':low_brightness:'
+- 
+   name: high_brightness
+   location: assets/Symbols/high_brightness.png
+   strings: 
+   - ':high_brightness:'
+- 
+   name: signal_strength
+   location: assets/Symbols/signal_strength.png
+   strings: 
+   - ':signal_strength:'
+- 
+   name: wireless
+   location: assets/Symbols/wireless.png
+   strings: 
+   - ':wireless:'
+- 
+   name: vibration_mode
+   location: assets/Symbols/vibration_mode.png
+   strings: 
+   - ':vibration_mode:'
+- 
+   name: mobile_phone_off
+   location: assets/Symbols/mobile_phone_off.png
+   strings: 
+   - ':mobile_phone_off:'
+- 
+   name: female_sign
+   location: assets/Symbols/female_sign.png
+   strings: 
+   - ':female_sign:'
+- 
+   name: male_sign
+   location: assets/Symbols/male_sign.png
+   strings: 
+   - ':male_sign:'
+- 
+   name: transgender_symbol
+   location: assets/Symbols/transgender_symbol.png
+   strings: 
+   - ':transgender_symbol:'
+- 
+   name: heavy_multiplication_x
+   location: assets/Symbols/heavy_multiplication_x.png
+   strings: 
+   - ':heavy_multiplication_x:'
+- 
+   name: heavy_plus_sign
+   location: assets/Symbols/heavy_plus_sign.png
+   strings: 
+   - ':heavy_plus_sign:'
+- 
+   name: heavy_minus_sign
+   location: assets/Symbols/heavy_minus_sign.png
+   strings: 
+   - ':heavy_minus_sign:'
+- 
+   name: heavy_division_sign
+   location: assets/Symbols/heavy_division_sign.png
+   strings: 
+   - ':heavy_division_sign:'
+- 
+   name: heavy_equals_sign
+   location: assets/Symbols/heavy_equals_sign.png
+   strings: 
+   - ':heavy_equals_sign:'
+- 
+   name: infinity
+   location: assets/Symbols/infinity.png
+   strings: 
+   - ':infinity:'
+- 
+   name: bangbang
+   location: assets/Symbols/bangbang.png
+   strings: 
+   - ':bangbang:'
+- 
+   name: interrobang
+   location: assets/Symbols/interrobang.png
+   strings: 
+   - ':interrobang:'
+- 
+   name: question
+   location: assets/Symbols/question.png
+   strings: 
+   - ':question:'
+- 
+   name: grey_question
+   location: assets/Symbols/grey_question.png
+   strings: 
+   - ':grey_question:'
+- 
+   name: grey_exclamation
+   location: assets/Symbols/grey_exclamation.png
+   strings: 
+   - ':grey_exclamation:'
+- 
+   name: exclamation
+   location: assets/Symbols/exclamation.png
+   strings: 
+   - ':exclamation:'
+   - ':heavy_exclamation_mark:'
+- 
+   name: wavy_dash
+   location: assets/Symbols/wavy_dash.png
+   strings: 
+   - ':wavy_dash:'
+- 
+   name: currency_exchange
+   location: assets/Symbols/currency_exchange.png
+   strings: 
+   - ':currency_exchange:'
+- 
+   name: heavy_dollar_sign
+   location: assets/Symbols/heavy_dollar_sign.png
+   strings: 
+   - ':heavy_dollar_sign:'
+- 
+   name: medical_symbol
+   location: assets/Symbols/medical_symbol.png
+   strings: 
+   - ':medical_symbol:'
+   - ':staff_of_aesculapius:'
+- 
+   name: recycle
+   location: assets/Symbols/recycle.png
+   strings: 
+   - ':recycle:'
+- 
+   name: fleur_de_lis
+   location: assets/Symbols/fleur_de_lis.png
+   strings: 
+   - ':fleur_de_lis:'
+- 
+   name: trident
+   location: assets/Symbols/trident.png
+   strings: 
+   - ':trident:'
+- 
+   name: name_badge
+   location: assets/Symbols/name_badge.png
+   strings: 
+   - ':name_badge:'
+- 
+   name: beginner
+   location: assets/Symbols/beginner.png
+   strings: 
+   - ':beginner:'
+- 
+   name: o
+   location: assets/Symbols/o.png
+   strings: 
+   - ':o:'
+- 
+   name: white_check_mark
+   location: assets/Symbols/white_check_mark.png
+   strings: 
+   - ':white_check_mark:'
+- 
+   name: ballot_box_with_check
+   location: assets/Symbols/ballot_box_with_check.png
+   strings: 
+   - ':ballot_box_with_check:'
+- 
+   name: heavy_check_mark
+   location: assets/Symbols/heavy_check_mark.png
+   strings: 
+   - ':heavy_check_mark:'
+- 
+   name: x
+   location: assets/Symbols/x.png
+   strings: 
+   - ':x:'
+- 
+   name: negative_squared_cross_mark
+   location: assets/Symbols/negative_squared_cross_mark.png
+   strings: 
+   - ':negative_squared_cross_mark:'
+- 
+   name: curly_loop
+   location: assets/Symbols/curly_loop.png
+   strings: 
+   - ':curly_loop:'
+- 
+   name: loop
+   location: assets/Symbols/loop.png
+   strings: 
+   - ':loop:'
+- 
+   name: part_alternation_mark
+   location: assets/Symbols/part_alternation_mark.png
+   strings: 
+   - ':part_alternation_mark:'
+- 
+   name: eight_spoked_asterisk
+   location: assets/Symbols/eight_spoked_asterisk.png
+   strings: 
+   - ':eight_spoked_asterisk:'
+- 
+   name: eight_pointed_black_star
+   location: assets/Symbols/eight_pointed_black_star.png
+   strings: 
+   - ':eight_pointed_black_star:'
+- 
+   name: sparkle
+   location: assets/Symbols/sparkle.png
+   strings: 
+   - ':sparkle:'
+- 
+   name: copyright
+   location: assets/Symbols/copyright.png
+   strings: 
+   - ':copyright:'
+- 
+   name: registered
+   location: assets/Symbols/registered.png
+   strings: 
+   - ':registered:'
+- 
+   name: tm
+   location: assets/Symbols/tm.png
+   strings: 
+   - ':tm:'
+- 
+   name: hash
+   location: assets/Symbols/hash.png
+   strings: 
+   - ':hash:'
+- 
+   name: keycap_star
+   location: assets/Symbols/keycap_star.png
+   strings: 
+   - ':keycap_star:'
+- 
+   name: zero
+   location: assets/Symbols/zero.png
+   strings: 
+   - ':zero:'
+- 
+   name: one
+   location: assets/Symbols/one.png
+   strings: 
+   - ':one:'
+- 
+   name: two
+   location: assets/Symbols/two.png
+   strings: 
+   - ':two:'
+- 
+   name: three
+   location: assets/Symbols/three.png
+   strings: 
+   - ':three:'
+- 
+   name: four
+   location: assets/Symbols/four.png
+   strings: 
+   - ':four:'
+- 
+   name: five
+   location: assets/Symbols/five.png
+   strings: 
+   - ':five:'
+- 
+   name: six
+   location: assets/Symbols/six.png
+   strings: 
+   - ':six:'
+- 
+   name: seven
+   location: assets/Symbols/seven.png
+   strings: 
+   - ':seven:'
+- 
+   name: eight
+   location: assets/Symbols/eight.png
+   strings: 
+   - ':eight:'
+- 
+   name: nine
+   location: assets/Symbols/nine.png
+   strings: 
+   - ':nine:'
+- 
+   name: keycap_ten
+   location: assets/Symbols/keycap_ten.png
+   strings: 
+   - ':keycap_ten:'
+- 
+   name: capital_abcd
+   location: assets/Symbols/capital_abcd.png
+   strings: 
+   - ':capital_abcd:'
+- 
+   name: abcd
+   location: assets/Symbols/abcd.png
+   strings: 
+   - ':abcd:'
+- 
+   name: 1234
+   location: assets/Symbols/1234.png
+   strings: 
+   - ':1234:'
+- 
+   name: symbols
+   location: assets/Symbols/symbols.png
+   strings: 
+   - ':symbols:'
+- 
+   name: abc
+   location: assets/Symbols/abc.png
+   strings: 
+   - ':abc:'
+- 
+   name: a
+   location: assets/Symbols/a.png
+   strings: 
+   - ':a:'
+- 
+   name: ab
+   location: assets/Symbols/ab.png
+   strings: 
+   - ':ab:'
+- 
+   name: b
+   location: assets/Symbols/b.png
+   strings: 
+   - ':b:'
+- 
+   name: cl
+   location: assets/Symbols/cl.png
+   strings: 
+   - ':cl:'
+- 
+   name: cool
+   location: assets/Symbols/cool.png
+   strings: 
+   - ':cool:'
+- 
+   name: free
+   location: assets/Symbols/free.png
+   strings: 
+   - ':free:'
+- 
+   name: information_source
+   location: assets/Symbols/information_source.png
+   strings: 
+   - ':information_source:'
+- 
+   name: id
+   location: assets/Symbols/id.png
+   strings: 
+   - ':id:'
+- 
+   name: m
+   location: assets/Symbols/m.png
+   strings: 
+   - ':m:'
+- 
+   name: new
+   location: assets/Symbols/new.png
+   strings: 
+   - ':new:'
+- 
+   name: ng
+   location: assets/Symbols/ng.png
+   strings: 
+   - ':ng:'
+- 
+   name: o2
+   location: assets/Symbols/o2.png
+   strings: 
+   - ':o2:'
+- 
+   name: ok
+   location: assets/Symbols/ok.png
+   strings: 
+   - ':ok:'
+- 
+   name: parking
+   location: assets/Symbols/parking.png
+   strings: 
+   - ':parking:'
+- 
+   name: sos
+   location: assets/Symbols/sos.png
+   strings: 
+   - ':sos:'
+- 
+   name: up
+   location: assets/Symbols/up.png
+   strings: 
+   - ':up:'
+- 
+   name: vs
+   location: assets/Symbols/vs.png
+   strings: 
+   - ':vs:'
+- 
+   name: koko
+   location: assets/Symbols/koko.png
+   strings: 
+   - ':koko:'
+- 
+   name: sa
+   location: assets/Symbols/sa.png
+   strings: 
+   - ':sa:'
+- 
+   name: u6708
+   location: assets/Symbols/u6708.png
+   strings: 
+   - ':u6708:'
+- 
+   name: u6709
+   location: assets/Symbols/u6709.png
+   strings: 
+   - ':u6709:'
+- 
+   name: u6307
+   location: assets/Symbols/u6307.png
+   strings: 
+   - ':u6307:'
+- 
+   name: ideograph_advantage
+   location: assets/Symbols/ideograph_advantage.png
+   strings: 
+   - ':ideograph_advantage:'
+- 
+   name: u5272
+   location: assets/Symbols/u5272.png
+   strings: 
+   - ':u5272:'
+- 
+   name: u7121
+   location: assets/Symbols/u7121.png
+   strings: 
+   - ':u7121:'
+- 
+   name: u7981
+   location: assets/Symbols/u7981.png
+   strings: 
+   - ':u7981:'
+- 
+   name: accept
+   location: assets/Symbols/accept.png
+   strings: 
+   - ':accept:'
+- 
+   name: u7533
+   location: assets/Symbols/u7533.png
+   strings: 
+   - ':u7533:'
+- 
+   name: u5408
+   location: assets/Symbols/u5408.png
+   strings: 
+   - ':u5408:'
+- 
+   name: u7a7a
+   location: assets/Symbols/u7a7a.png
+   strings: 
+   - ':u7a7a:'
+- 
+   name: congratulations
+   location: assets/Symbols/congratulations.png
+   strings: 
+   - ':congratulations:'
+- 
+   name: secret
+   location: assets/Symbols/secret.png
+   strings: 
+   - ':secret:'
+- 
+   name: u55b6
+   location: assets/Symbols/u55b6.png
+   strings: 
+   - ':u55b6:'
+- 
+   name: u6e80
+   location: assets/Symbols/u6e80.png
+   strings: 
+   - ':u6e80:'
+- 
+   name: red_circle
+   location: assets/Symbols/red_circle.png
+   strings: 
+   - ':red_circle:'
+- 
+   name: large_orange_circle
+   location: assets/Symbols/large_orange_circle.png
+   strings: 
+   - ':large_orange_circle:'
+- 
+   name: large_yellow_circle
+   location: assets/Symbols/large_yellow_circle.png
+   strings: 
+   - ':large_yellow_circle:'
+- 
+   name: large_green_circle
+   location: assets/Symbols/large_green_circle.png
+   strings: 
+   - ':large_green_circle:'
+- 
+   name: large_blue_circle
+   location: assets/Symbols/large_blue_circle.png
+   strings: 
+   - ':large_blue_circle:'
+- 
+   name: large_purple_circle
+   location: assets/Symbols/large_purple_circle.png
+   strings: 
+   - ':large_purple_circle:'
+- 
+   name: large_brown_circle
+   location: assets/Symbols/large_brown_circle.png
+   strings: 
+   - ':large_brown_circle:'
+- 
+   name: black_circle
+   location: assets/Symbols/black_circle.png
+   strings: 
+   - ':black_circle:'
+- 
+   name: white_circle
+   location: assets/Symbols/white_circle.png
+   strings: 
+   - ':white_circle:'
+- 
+   name: large_red_square
+   location: assets/Symbols/large_red_square.png
+   strings: 
+   - ':large_red_square:'
+- 
+   name: large_orange_square
+   location: assets/Symbols/large_orange_square.png
+   strings: 
+   - ':large_orange_square:'
+- 
+   name: large_yellow_square
+   location: assets/Symbols/large_yellow_square.png
+   strings: 
+   - ':large_yellow_square:'
+- 
+   name: large_green_square
+   location: assets/Symbols/large_green_square.png
+   strings: 
+   - ':large_green_square:'
+- 
+   name: large_blue_square
+   location: assets/Symbols/large_blue_square.png
+   strings: 
+   - ':large_blue_square:'
+- 
+   name: large_purple_square
+   location: assets/Symbols/large_purple_square.png
+   strings: 
+   - ':large_purple_square:'
+- 
+   name: large_brown_square
+   location: assets/Symbols/large_brown_square.png
+   strings: 
+   - ':large_brown_square:'
+- 
+   name: black_large_square
+   location: assets/Symbols/black_large_square.png
+   strings: 
+   - ':black_large_square:'
+- 
+   name: white_large_square
+   location: assets/Symbols/white_large_square.png
+   strings: 
+   - ':white_large_square:'
+- 
+   name: black_medium_square
+   location: assets/Symbols/black_medium_square.png
+   strings: 
+   - ':black_medium_square:'
+- 
+   name: white_medium_square
+   location: assets/Symbols/white_medium_square.png
+   strings: 
+   - ':white_medium_square:'
+- 
+   name: black_medium_small_square
+   location: assets/Symbols/black_medium_small_square.png
+   strings: 
+   - ':black_medium_small_square:'
+- 
+   name: white_medium_small_square
+   location: assets/Symbols/white_medium_small_square.png
+   strings: 
+   - ':white_medium_small_square:'
+- 
+   name: black_small_square
+   location: assets/Symbols/black_small_square.png
+   strings: 
+   - ':black_small_square:'
+- 
+   name: white_small_square
+   location: assets/Symbols/white_small_square.png
+   strings: 
+   - ':white_small_square:'
+- 
+   name: large_orange_diamond
+   location: assets/Symbols/large_orange_diamond.png
+   strings: 
+   - ':large_orange_diamond:'
+- 
+   name: large_blue_diamond
+   location: assets/Symbols/large_blue_diamond.png
+   strings: 
+   - ':large_blue_diamond:'
+- 
+   name: small_orange_diamond
+   location: assets/Symbols/small_orange_diamond.png
+   strings: 
+   - ':small_orange_diamond:'
+- 
+   name: small_blue_diamond
+   location: assets/Symbols/small_blue_diamond.png
+   strings: 
+   - ':small_blue_diamond:'
+- 
+   name: small_red_triangle
+   location: assets/Symbols/small_red_triangle.png
+   strings: 
+   - ':small_red_triangle:'
+- 
+   name: small_red_triangle_down
+   location: assets/Symbols/small_red_triangle_down.png
+   strings: 
+   - ':small_red_triangle_down:'
+- 
+   name: diamond_shape_with_a_dot_inside
+   location: assets/Symbols/diamond_shape_with_a_dot_inside.png
+   strings: 
+   - ':diamond_shape_with_a_dot_inside:'
+- 
+   name: radio_button
+   location: assets/Symbols/radio_button.png
+   strings: 
+   - ':radio_button:'
+- 
+   name: white_square_button
+   location: assets/Symbols/white_square_button.png
+   strings: 
+   - ':white_square_button:'
+- 
+   name: black_square_button
+   location: assets/Symbols/black_square_button.png
+   strings: 
+   - ':black_square_button:'

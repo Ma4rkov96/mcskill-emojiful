@@ -1,0 +1,764 @@
+- 
+   name: monkey_face
+   location: assets/Animals & Nature/monkey_face.png
+   strings: 
+   - ':monkey_face:'
+- 
+   name: monkey
+   location: assets/Animals & Nature/monkey.png
+   strings: 
+   - ':monkey:'
+- 
+   name: gorilla
+   location: assets/Animals & Nature/gorilla.png
+   strings: 
+   - ':gorilla:'
+- 
+   name: orangutan
+   location: assets/Animals & Nature/orangutan.png
+   strings: 
+   - ':orangutan:'
+- 
+   name: dog
+   location: assets/Animals & Nature/dog.png
+   strings: 
+   - ':dog:'
+- 
+   name: dog2
+   location: assets/Animals & Nature/dog2.png
+   strings: 
+   - ':dog2:'
+- 
+   name: guide_dog
+   location: assets/Animals & Nature/guide_dog.png
+   strings: 
+   - ':guide_dog:'
+- 
+   name: service_dog
+   location: assets/Animals & Nature/service_dog.png
+   strings: 
+   - ':service_dog:'
+- 
+   name: poodle
+   location: assets/Animals & Nature/poodle.png
+   strings: 
+   - ':poodle:'
+- 
+   name: wolf
+   location: assets/Animals & Nature/wolf.png
+   strings: 
+   - ':wolf:'
+- 
+   name: fox_face
+   location: assets/Animals & Nature/fox_face.png
+   strings: 
+   - ':fox_face:'
+- 
+   name: raccoon
+   location: assets/Animals & Nature/raccoon.png
+   strings: 
+   - ':raccoon:'
+- 
+   name: cat
+   location: assets/Animals & Nature/cat.png
+   strings: 
+   - ':cat:'
+- 
+   name: cat2
+   location: assets/Animals & Nature/cat2.png
+   strings: 
+   - ':cat2:'
+- 
+   name: black_cat
+   location: assets/Animals & Nature/black_cat.png
+   strings: 
+   - ':black_cat:'
+- 
+   name: lion_face
+   location: assets/Animals & Nature/lion_face.png
+   strings: 
+   - ':lion_face:'
+- 
+   name: tiger
+   location: assets/Animals & Nature/tiger.png
+   strings: 
+   - ':tiger:'
+- 
+   name: tiger2
+   location: assets/Animals & Nature/tiger2.png
+   strings: 
+   - ':tiger2:'
+- 
+   name: leopard
+   location: assets/Animals & Nature/leopard.png
+   strings: 
+   - ':leopard:'
+- 
+   name: horse
+   location: assets/Animals & Nature/horse.png
+   strings: 
+   - ':horse:'
+- 
+   name: moose
+   location: assets/Animals & Nature/moose.png
+   strings: 
+   - ':moose:'
+- 
+   name: donkey
+   location: assets/Animals & Nature/donkey.png
+   strings: 
+   - ':donkey:'
+- 
+   name: racehorse
+   location: assets/Animals & Nature/racehorse.png
+   strings: 
+   - ':racehorse:'
+- 
+   name: unicorn_face
+   location: assets/Animals & Nature/unicorn_face.png
+   strings: 
+   - ':unicorn_face:'
+- 
+   name: zebra_face
+   location: assets/Animals & Nature/zebra_face.png
+   strings: 
+   - ':zebra_face:'
+- 
+   name: deer
+   location: assets/Animals & Nature/deer.png
+   strings: 
+   - ':deer:'
+- 
+   name: bison
+   location: assets/Animals & Nature/bison.png
+   strings: 
+   - ':bison:'
+- 
+   name: cow
+   location: assets/Animals & Nature/cow.png
+   strings: 
+   - ':cow:'
+- 
+   name: ox
+   location: assets/Animals & Nature/ox.png
+   strings: 
+   - ':ox:'
+- 
+   name: water_buffalo
+   location: assets/Animals & Nature/water_buffalo.png
+   strings: 
+   - ':water_buffalo:'
+- 
+   name: cow2
+   location: assets/Animals & Nature/cow2.png
+   strings: 
+   - ':cow2:'
+- 
+   name: pig
+   location: assets/Animals & Nature/pig.png
+   strings: 
+   - ':pig:'
+- 
+   name: pig2
+   location: assets/Animals & Nature/pig2.png
+   strings: 
+   - ':pig2:'
+- 
+   name: boar
+   location: assets/Animals & Nature/boar.png
+   strings: 
+   - ':boar:'
+- 
+   name: pig_nose
+   location: assets/Animals & Nature/pig_nose.png
+   strings: 
+   - ':pig_nose:'
+- 
+   name: ram
+   location: assets/Animals & Nature/ram.png
+   strings: 
+   - ':ram:'
+- 
+   name: sheep
+   location: assets/Animals & Nature/sheep.png
+   strings: 
+   - ':sheep:'
+- 
+   name: goat
+   location: assets/Animals & Nature/goat.png
+   strings: 
+   - ':goat:'
+- 
+   name: dromedary_camel
+   location: assets/Animals & Nature/dromedary_camel.png
+   strings: 
+   - ':dromedary_camel:'
+- 
+   name: camel
+   location: assets/Animals & Nature/camel.png
+   strings: 
+   - ':camel:'
+- 
+   name: llama
+   location: assets/Animals & Nature/llama.png
+   strings: 
+   - ':llama:'
+- 
+   name: giraffe_face
+   location: assets/Animals & Nature/giraffe_face.png
+   strings: 
+   - ':giraffe_face:'
+- 
+   name: elephant
+   location: assets/Animals & Nature/elephant.png
+   strings: 
+   - ':elephant:'
+- 
+   name: mammoth
+   location: assets/Animals & Nature/mammoth.png
+   strings: 
+   - ':mammoth:'
+- 
+   name: rhinoceros
+   location: assets/Animals & Nature/rhinoceros.png
+   strings: 
+   - ':rhinoceros:'
+- 
+   name: hippopotamus
+   location: assets/Animals & Nature/hippopotamus.png
+   strings: 
+   - ':hippopotamus:'
+- 
+   name: mouse
+   location: assets/Animals & Nature/mouse.png
+   strings: 
+   - ':mouse:'
+- 
+   name: mouse2
+   location: assets/Animals & Nature/mouse2.png
+   strings: 
+   - ':mouse2:'
+- 
+   name: rat
+   location: assets/Animals & Nature/rat.png
+   strings: 
+   - ':rat:'
+- 
+   name: hamster
+   location: assets/Animals & Nature/hamster.png
+   strings: 
+   - ':hamster:'
+- 
+   name: rabbit
+   location: assets/Animals & Nature/rabbit.png
+   strings: 
+   - ':rabbit:'
+- 
+   name: rabbit2
+   location: assets/Animals & Nature/rabbit2.png
+   strings: 
+   - ':rabbit2:'
+- 
+   name: chipmunk
+   location: assets/Animals & Nature/chipmunk.png
+   strings: 
+   - ':chipmunk:'
+- 
+   name: beaver
+   location: assets/Animals & Nature/beaver.png
+   strings: 
+   - ':beaver:'
+- 
+   name: hedgehog
+   location: assets/Animals & Nature/hedgehog.png
+   strings: 
+   - ':hedgehog:'
+- 
+   name: bat
+   location: assets/Animals & Nature/bat.png
+   strings: 
+   - ':bat:'
+- 
+   name: bear
+   location: assets/Animals & Nature/bear.png
+   strings: 
+   - ':bear:'
+- 
+   name: polar_bear
+   location: assets/Animals & Nature/polar_bear.png
+   strings: 
+   - ':polar_bear:'
+- 
+   name: koala
+   location: assets/Animals & Nature/koala.png
+   strings: 
+   - ':koala:'
+- 
+   name: panda_face
+   location: assets/Animals & Nature/panda_face.png
+   strings: 
+   - ':panda_face:'
+- 
+   name: sloth
+   location: assets/Animals & Nature/sloth.png
+   strings: 
+   - ':sloth:'
+- 
+   name: otter
+   location: assets/Animals & Nature/otter.png
+   strings: 
+   - ':otter:'
+- 
+   name: skunk
+   location: assets/Animals & Nature/skunk.png
+   strings: 
+   - ':skunk:'
+- 
+   name: kangaroo
+   location: assets/Animals & Nature/kangaroo.png
+   strings: 
+   - ':kangaroo:'
+- 
+   name: badger
+   location: assets/Animals & Nature/badger.png
+   strings: 
+   - ':badger:'
+- 
+   name: feet
+   location: assets/Animals & Nature/feet.png
+   strings: 
+   - ':feet:'
+   - ':paw_prints:'
+- 
+   name: turkey
+   location: assets/Animals & Nature/turkey.png
+   strings: 
+   - ':turkey:'
+- 
+   name: chicken
+   location: assets/Animals & Nature/chicken.png
+   strings: 
+   - ':chicken:'
+- 
+   name: rooster
+   location: assets/Animals & Nature/rooster.png
+   strings: 
+   - ':rooster:'
+- 
+   name: hatching_chick
+   location: assets/Animals & Nature/hatching_chick.png
+   strings: 
+   - ':hatching_chick:'
+- 
+   name: baby_chick
+   location: assets/Animals & Nature/baby_chick.png
+   strings: 
+   - ':baby_chick:'
+- 
+   name: hatched_chick
+   location: assets/Animals & Nature/hatched_chick.png
+   strings: 
+   - ':hatched_chick:'
+- 
+   name: bird
+   location: assets/Animals & Nature/bird.png
+   strings: 
+   - ':bird:'
+- 
+   name: penguin
+   location: assets/Animals & Nature/penguin.png
+   strings: 
+   - ':penguin:'
+- 
+   name: dove_of_peace
+   location: assets/Animals & Nature/dove_of_peace.png
+   strings: 
+   - ':dove_of_peace:'
+- 
+   name: eagle
+   location: assets/Animals & Nature/eagle.png
+   strings: 
+   - ':eagle:'
+- 
+   name: duck
+   location: assets/Animals & Nature/duck.png
+   strings: 
+   - ':duck:'
+- 
+   name: swan
+   location: assets/Animals & Nature/swan.png
+   strings: 
+   - ':swan:'
+- 
+   name: owl
+   location: assets/Animals & Nature/owl.png
+   strings: 
+   - ':owl:'
+- 
+   name: dodo
+   location: assets/Animals & Nature/dodo.png
+   strings: 
+   - ':dodo:'
+- 
+   name: feather
+   location: assets/Animals & Nature/feather.png
+   strings: 
+   - ':feather:'
+- 
+   name: flamingo
+   location: assets/Animals & Nature/flamingo.png
+   strings: 
+   - ':flamingo:'
+- 
+   name: peacock
+   location: assets/Animals & Nature/peacock.png
+   strings: 
+   - ':peacock:'
+- 
+   name: parrot
+   location: assets/Animals & Nature/parrot.png
+   strings: 
+   - ':parrot:'
+- 
+   name: wing
+   location: assets/Animals & Nature/wing.png
+   strings: 
+   - ':wing:'
+- 
+   name: black_bird
+   location: assets/Animals & Nature/black_bird.png
+   strings: 
+   - ':black_bird:'
+- 
+   name: goose
+   location: assets/Animals & Nature/goose.png
+   strings: 
+   - ':goose:'
+- 
+   name: frog
+   location: assets/Animals & Nature/frog.png
+   strings: 
+   - ':frog:'
+- 
+   name: crocodile
+   location: assets/Animals & Nature/crocodile.png
+   strings: 
+   - ':crocodile:'
+- 
+   name: turtle
+   location: assets/Animals & Nature/turtle.png
+   strings: 
+   - ':turtle:'
+- 
+   name: lizard
+   location: assets/Animals & Nature/lizard.png
+   strings: 
+   - ':lizard:'
+- 
+   name: snake
+   location: assets/Animals & Nature/snake.png
+   strings: 
+   - ':snake:'
+- 
+   name: dragon_face
+   location: assets/Animals & Nature/dragon_face.png
+   strings: 
+   - ':dragon_face:'
+- 
+   name: dragon
+   location: assets/Animals & Nature/dragon.png
+   strings: 
+   - ':dragon:'
+- 
+   name: sauropod
+   location: assets/Animals & Nature/sauropod.png
+   strings: 
+   - ':sauropod:'
+- 
+   name: t_rex
+   location: assets/Animals & Nature/t_rex.png
+   strings: 
+   - ':t-rex:'
+- 
+   name: whale
+   location: assets/Animals & Nature/whale.png
+   strings: 
+   - ':whale:'
+- 
+   name: whale2
+   location: assets/Animals & Nature/whale2.png
+   strings: 
+   - ':whale2:'
+- 
+   name: dolphin
+   location: assets/Animals & Nature/dolphin.png
+   strings: 
+   - ':dolphin:'
+   - ':flipper:'
+- 
+   name: seal
+   location: assets/Animals & Nature/seal.png
+   strings: 
+   - ':seal:'
+- 
+   name: fish
+   location: assets/Animals & Nature/fish.png
+   strings: 
+   - ':fish:'
+- 
+   name: tropical_fish
+   location: assets/Animals & Nature/tropical_fish.png
+   strings: 
+   - ':tropical_fish:'
+- 
+   name: blowfish
+   location: assets/Animals & Nature/blowfish.png
+   strings: 
+   - ':blowfish:'
+- 
+   name: shark
+   location: assets/Animals & Nature/shark.png
+   strings: 
+   - ':shark:'
+- 
+   name: octopus
+   location: assets/Animals & Nature/octopus.png
+   strings: 
+   - ':octopus:'
+- 
+   name: shell
+   location: assets/Animals & Nature/shell.png
+   strings: 
+   - ':shell:'
+- 
+   name: coral
+   location: assets/Animals & Nature/coral.png
+   strings: 
+   - ':coral:'
+- 
+   name: jellyfish
+   location: assets/Animals & Nature/jellyfish.png
+   strings: 
+   - ':jellyfish:'
+- 
+   name: snail
+   location: assets/Animals & Nature/snail.png
+   strings: 
+   - ':snail:'
+- 
+   name: butterfly
+   location: assets/Animals & Nature/butterfly.png
+   strings: 
+   - ':butterfly:'
+- 
+   name: bug
+   location: assets/Animals & Nature/bug.png
+   strings: 
+   - ':bug:'
+- 
+   name: ant
+   location: assets/Animals & Nature/ant.png
+   strings: 
+   - ':ant:'
+- 
+   name: bee
+   location: assets/Animals & Nature/bee.png
+   strings: 
+   - ':bee:'
+   - ':honeybee:'
+- 
+   name: beetle
+   location: assets/Animals & Nature/beetle.png
+   strings: 
+   - ':beetle:'
+- 
+   name: ladybug
+   location: assets/Animals & Nature/ladybug.png
+   strings: 
+   - ':ladybug:'
+   - ':lady_beetle:'
+- 
+   name: cricket
+   location: assets/Animals & Nature/cricket.png
+   strings: 
+   - ':cricket:'
+- 
+   name: cockroach
+   location: assets/Animals & Nature/cockroach.png
+   strings: 
+   - ':cockroach:'
+- 
+   name: spider
+   location: assets/Animals & Nature/spider.png
+   strings: 
+   - ':spider:'
+- 
+   name: spider_web
+   location: assets/Animals & Nature/spider_web.png
+   strings: 
+   - ':spider_web:'
+- 
+   name: scorpion
+   location: assets/Animals & Nature/scorpion.png
+   strings: 
+   - ':scorpion:'
+- 
+   name: mosquito
+   location: assets/Animals & Nature/mosquito.png
+   strings: 
+   - ':mosquito:'
+- 
+   name: fly
+   location: assets/Animals & Nature/fly.png
+   strings: 
+   - ':fly:'
+- 
+   name: worm
+   location: assets/Animals & Nature/worm.png
+   strings: 
+   - ':worm:'
+- 
+   name: microbe
+   location: assets/Animals & Nature/microbe.png
+   strings: 
+   - ':microbe:'
+- 
+   name: bouquet
+   location: assets/Animals & Nature/bouquet.png
+   strings: 
+   - ':bouquet:'
+- 
+   name: cherry_blossom
+   location: assets/Animals & Nature/cherry_blossom.png
+   strings: 
+   - ':cherry_blossom:'
+- 
+   name: white_flower
+   location: assets/Animals & Nature/white_flower.png
+   strings: 
+   - ':white_flower:'
+- 
+   name: lotus
+   location: assets/Animals & Nature/lotus.png
+   strings: 
+   - ':lotus:'
+- 
+   name: rosette
+   location: assets/Animals & Nature/rosette.png
+   strings: 
+   - ':rosette:'
+- 
+   name: rose
+   location: assets/Animals & Nature/rose.png
+   strings: 
+   - ':rose:'
+- 
+   name: wilted_flower
+   location: assets/Animals & Nature/wilted_flower.png
+   strings: 
+   - ':wilted_flower:'
+- 
+   name: hibiscus
+   location: assets/Animals & Nature/hibiscus.png
+   strings: 
+   - ':hibiscus:'
+- 
+   name: sunflower
+   location: assets/Animals & Nature/sunflower.png
+   strings: 
+   - ':sunflower:'
+- 
+   name: blossom
+   location: assets/Animals & Nature/blossom.png
+   strings: 
+   - ':blossom:'
+- 
+   name: tulip
+   location: assets/Animals & Nature/tulip.png
+   strings: 
+   - ':tulip:'
+- 
+   name: hyacinth
+   location: assets/Animals & Nature/hyacinth.png
+   strings: 
+   - ':hyacinth:'
+- 
+   name: seedling
+   location: assets/Animals & Nature/seedling.png
+   strings: 
+   - ':seedling:'
+- 
+   name: potted_plant
+   location: assets/Animals & Nature/potted_plant.png
+   strings: 
+   - ':potted_plant:'
+- 
+   name: evergreen_tree
+   location: assets/Animals & Nature/evergreen_tree.png
+   strings: 
+   - ':evergreen_tree:'
+- 
+   name: deciduous_tree
+   location: assets/Animals & Nature/deciduous_tree.png
+   strings: 
+   - ':deciduous_tree:'
+- 
+   name: palm_tree
+   location: assets/Animals & Nature/palm_tree.png
+   strings: 
+   - ':palm_tree:'
+- 
+   name: cactus
+   location: assets/Animals & Nature/cactus.png
+   strings: 
+   - ':cactus:'
+- 
+   name: ear_of_rice
+   location: assets/Animals & Nature/ear_of_rice.png
+   strings: 
+   - ':ear_of_rice:'
+- 
+   name: herb
+   location: assets/Animals & Nature/herb.png
+   strings: 
+   - ':herb:'
+- 
+   name: shamrock
+   location: assets/Animals & Nature/shamrock.png
+   strings: 
+   - ':shamrock:'
+- 
+   name: four_leaf_clover
+   location: assets/Animals & Nature/four_leaf_clover.png
+   strings: 
+   - ':four_leaf_clover:'
+- 
+   name: maple_leaf
+   location: assets/Animals & Nature/maple_leaf.png
+   strings: 
+   - ':maple_leaf:'
+- 
+   name: fallen_leaf
+   location: assets/Animals & Nature/fallen_leaf.png
+   strings: 
+   - ':fallen_leaf:'
+- 
+   name: leaves
+   location: assets/Animals & Nature/leaves.png
+   strings: 
+   - ':leaves:'
+- 
+   name: empty_nest
+   location: assets/Animals & Nature/empty_nest.png
+   strings: 
+   - ':empty_nest:'
+- 
+   name: nest_with_eggs
+   location: assets/Animals & Nature/nest_with_eggs.png
+   strings: 
+   - ':nest_with_eggs:'
+- 
+   name: mushroom
+   location: assets/Animals & Nature/mushroom.png
+   strings: 
+   - ':mushroom:'

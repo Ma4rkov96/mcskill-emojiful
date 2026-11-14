@@ -1,0 +1,425 @@
+- 
+   name: jack_o_lantern
+   location: assets/Activities/jack_o_lantern.png
+   strings: 
+   - ':jack_o_lantern:'
+- 
+   name: christmas_tree
+   location: assets/Activities/christmas_tree.png
+   strings: 
+   - ':christmas_tree:'
+- 
+   name: fireworks
+   location: assets/Activities/fireworks.png
+   strings: 
+   - ':fireworks:'
+- 
+   name: sparkler
+   location: assets/Activities/sparkler.png
+   strings: 
+   - ':sparkler:'
+- 
+   name: firecracker
+   location: assets/Activities/firecracker.png
+   strings: 
+   - ':firecracker:'
+- 
+   name: sparkles
+   location: assets/Activities/sparkles.png
+   strings: 
+   - ':sparkles:'
+- 
+   name: balloon
+   location: assets/Activities/balloon.png
+   strings: 
+   - ':balloon:'
+- 
+   name: tada
+   location: assets/Activities/tada.png
+   strings: 
+   - ':tada:'
+- 
+   name: confetti_ball
+   location: assets/Activities/confetti_ball.png
+   strings: 
+   - ':confetti_ball:'
+- 
+   name: tanabata_tree
+   location: assets/Activities/tanabata_tree.png
+   strings: 
+   - ':tanabata_tree:'
+- 
+   name: bamboo
+   location: assets/Activities/bamboo.png
+   strings: 
+   - ':bamboo:'
+- 
+   name: dolls
+   location: assets/Activities/dolls.png
+   strings: 
+   - ':dolls:'
+- 
+   name: flags
+   location: assets/Activities/flags.png
+   strings: 
+   - ':flags:'
+- 
+   name: wind_chime
+   location: assets/Activities/wind_chime.png
+   strings: 
+   - ':wind_chime:'
+- 
+   name: rice_scene
+   location: assets/Activities/rice_scene.png
+   strings: 
+   - ':rice_scene:'
+- 
+   name: red_envelope
+   location: assets/Activities/red_envelope.png
+   strings: 
+   - ':red_envelope:'
+- 
+   name: ribbon
+   location: assets/Activities/ribbon.png
+   strings: 
+   - ':ribbon:'
+- 
+   name: gift
+   location: assets/Activities/gift.png
+   strings: 
+   - ':gift:'
+- 
+   name: reminder_ribbon
+   location: assets/Activities/reminder_ribbon.png
+   strings: 
+   - ':reminder_ribbon:'
+- 
+   name: admission_tickets
+   location: assets/Activities/admission_tickets.png
+   strings: 
+   - ':admission_tickets:'
+- 
+   name: ticket
+   location: assets/Activities/ticket.png
+   strings: 
+   - ':ticket:'
+- 
+   name: medal
+   location: assets/Activities/medal.png
+   strings: 
+   - ':medal:'
+- 
+   name: trophy
+   location: assets/Activities/trophy.png
+   strings: 
+   - ':trophy:'
+- 
+   name: sports_medal
+   location: assets/Activities/sports_medal.png
+   strings: 
+   - ':sports_medal:'
+- 
+   name: first_place_medal
+   location: assets/Activities/first_place_medal.png
+   strings: 
+   - ':first_place_medal:'
+- 
+   name: second_place_medal
+   location: assets/Activities/second_place_medal.png
+   strings: 
+   - ':second_place_medal:'
+- 
+   name: third_place_medal
+   location: assets/Activities/third_place_medal.png
+   strings: 
+   - ':third_place_medal:'
+- 
+   name: soccer
+   location: assets/Activities/soccer.png
+   strings: 
+   - ':soccer:'
+- 
+   name: baseball
+   location: assets/Activities/baseball.png
+   strings: 
+   - ':baseball:'
+- 
+   name: softball
+   location: assets/Activities/softball.png
+   strings: 
+   - ':softball:'
+- 
+   name: basketball
+   location: assets/Activities/basketball.png
+   strings: 
+   - ':basketball:'
+- 
+   name: volleyball
+   location: assets/Activities/volleyball.png
+   strings: 
+   - ':volleyball:'
+- 
+   name: football
+   location: assets/Activities/football.png
+   strings: 
+   - ':football:'
+- 
+   name: rugby_football
+   location: assets/Activities/rugby_football.png
+   strings: 
+   - ':rugby_football:'
+- 
+   name: tennis
+   location: assets/Activities/tennis.png
+   strings: 
+   - ':tennis:'
+- 
+   name: flying_disc
+   location: assets/Activities/flying_disc.png
+   strings: 
+   - ':flying_disc:'
+- 
+   name: bowling
+   location: assets/Activities/bowling.png
+   strings: 
+   - ':bowling:'
+- 
+   name: cricket_bat_and_ball
+   location: assets/Activities/cricket_bat_and_ball.png
+   strings: 
+   - ':cricket_bat_and_ball:'
+- 
+   name: field_hockey_stick_and_ball
+   location: assets/Activities/field_hockey_stick_and_ball.png
+   strings: 
+   - ':field_hockey_stick_and_ball:'
+- 
+   name: ice_hockey_stick_and_puck
+   location: assets/Activities/ice_hockey_stick_and_puck.png
+   strings: 
+   - ':ice_hockey_stick_and_puck:'
+- 
+   name: lacrosse
+   location: assets/Activities/lacrosse.png
+   strings: 
+   - ':lacrosse:'
+- 
+   name: table_tennis_paddle_and_ball
+   location: assets/Activities/table_tennis_paddle_and_ball.png
+   strings: 
+   - ':table_tennis_paddle_and_ball:'
+- 
+   name: badminton_racquet_and_shuttlecock
+   location: assets/Activities/badminton_racquet_and_shuttlecock.png
+   strings: 
+   - ':badminton_racquet_and_shuttlecock:'
+- 
+   name: boxing_glove
+   location: assets/Activities/boxing_glove.png
+   strings: 
+   - ':boxing_glove:'
+- 
+   name: martial_arts_uniform
+   location: assets/Activities/martial_arts_uniform.png
+   strings: 
+   - ':martial_arts_uniform:'
+- 
+   name: goal_net
+   location: assets/Activities/goal_net.png
+   strings: 
+   - ':goal_net:'
+- 
+   name: golf
+   location: assets/Activities/golf.png
+   strings: 
+   - ':golf:'
+- 
+   name: ice_skate
+   location: assets/Activities/ice_skate.png
+   strings: 
+   - ':ice_skate:'
+- 
+   name: fishing_pole_and_fish
+   location: assets/Activities/fishing_pole_and_fish.png
+   strings: 
+   - ':fishing_pole_and_fish:'
+- 
+   name: diving_mask
+   location: assets/Activities/diving_mask.png
+   strings: 
+   - ':diving_mask:'
+- 
+   name: running_shirt_with_sash
+   location: assets/Activities/running_shirt_with_sash.png
+   strings: 
+   - ':running_shirt_with_sash:'
+- 
+   name: ski
+   location: assets/Activities/ski.png
+   strings: 
+   - ':ski:'
+- 
+   name: sled
+   location: assets/Activities/sled.png
+   strings: 
+   - ':sled:'
+- 
+   name: curling_stone
+   location: assets/Activities/curling_stone.png
+   strings: 
+   - ':curling_stone:'
+- 
+   name: dart
+   location: assets/Activities/dart.png
+   strings: 
+   - ':dart:'
+- 
+   name: yo_yo
+   location: assets/Activities/yo_yo.png
+   strings: 
+   - ':yo-yo:'
+- 
+   name: kite
+   location: assets/Activities/kite.png
+   strings: 
+   - ':kite:'
+- 
+   name: gun
+   location: assets/Activities/gun.png
+   strings: 
+   - ':gun:'
+- 
+   name: 8ball
+   location: assets/Activities/8ball.png
+   strings: 
+   - ':8ball:'
+- 
+   name: crystal_ball
+   location: assets/Activities/crystal_ball.png
+   strings: 
+   - ':crystal_ball:'
+- 
+   name: magic_wand
+   location: assets/Activities/magic_wand.png
+   strings: 
+   - ':magic_wand:'
+- 
+   name: video_game
+   location: assets/Activities/video_game.png
+   strings: 
+   - ':video_game:'
+- 
+   name: joystick
+   location: assets/Activities/joystick.png
+   strings: 
+   - ':joystick:'
+- 
+   name: slot_machine
+   location: assets/Activities/slot_machine.png
+   strings: 
+   - ':slot_machine:'
+- 
+   name: game_die
+   location: assets/Activities/game_die.png
+   strings: 
+   - ':game_die:'
+- 
+   name: jigsaw
+   location: assets/Activities/jigsaw.png
+   strings: 
+   - ':jigsaw:'
+- 
+   name: teddy_bear
+   location: assets/Activities/teddy_bear.png
+   strings: 
+   - ':teddy_bear:'
+- 
+   name: pinata
+   location: assets/Activities/pinata.png
+   strings: 
+   - ':pinata:'
+- 
+   name: mirror_ball
+   location: assets/Activities/mirror_ball.png
+   strings: 
+   - ':mirror_ball:'
+- 
+   name: nesting_dolls
+   location: assets/Activities/nesting_dolls.png
+   strings: 
+   - ':nesting_dolls:'
+- 
+   name: spades
+   location: assets/Activities/spades.png
+   strings: 
+   - ':spades:'
+- 
+   name: hearts
+   location: assets/Activities/hearts.png
+   strings: 
+   - ':hearts:'
+- 
+   name: diamonds
+   location: assets/Activities/diamonds.png
+   strings: 
+   - ':diamonds:'
+- 
+   name: clubs
+   location: assets/Activities/clubs.png
+   strings: 
+   - ':clubs:'
+- 
+   name: chess_pawn
+   location: assets/Activities/chess_pawn.png
+   strings: 
+   - ':chess_pawn:'
+- 
+   name: black_joker
+   location: assets/Activities/black_joker.png
+   strings: 
+   - ':black_joker:'
+- 
+   name: mahjong
+   location: assets/Activities/mahjong.png
+   strings: 
+   - ':mahjong:'
+- 
+   name: flower_playing_cards
+   location: assets/Activities/flower_playing_cards.png
+   strings: 
+   - ':flower_playing_cards:'
+- 
+   name: performing_arts
+   location: assets/Activities/performing_arts.png
+   strings: 
+   - ':performing_arts:'
+- 
+   name: frame_with_picture
+   location: assets/Activities/frame_with_picture.png
+   strings: 
+   - ':frame_with_picture:'
+- 
+   name: art
+   location: assets/Activities/art.png
+   strings: 
+   - ':art:'
+- 
+   name: thread
+   location: assets/Activities/thread.png
+   strings: 
+   - ':thread:'
+- 
+   name: sewing_needle
+   location: assets/Activities/sewing_needle.png
+   strings: 
+   - ':sewing_needle:'
+- 
+   name: yarn
+   location: assets/Activities/yarn.png
+   strings: 
+   - ':yarn:'
+- 
+   name: knot
+   location: assets/Activities/knot.png
+   strings: 
+   - ':knot:'
