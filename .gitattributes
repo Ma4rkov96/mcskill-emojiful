@@ -1,0 +1,6 @@
+*.png binary
+*.gif binary
+*.webp binary
+*.jpg binary
+*.jpeg binary
+manifest.json text eol=lf

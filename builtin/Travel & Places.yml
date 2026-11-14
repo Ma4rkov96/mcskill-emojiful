@@ -1,0 +1,1098 @@
+- 
+   name: earth_africa
+   location: assets/Travel & Places/earth_africa.png
+   strings: 
+   - ':earth_africa:'
+- 
+   name: earth_americas
+   location: assets/Travel & Places/earth_americas.png
+   strings: 
+   - ':earth_americas:'
+- 
+   name: earth_asia
+   location: assets/Travel & Places/earth_asia.png
+   strings: 
+   - ':earth_asia:'
+- 
+   name: globe_with_meridians
+   location: assets/Travel & Places/globe_with_meridians.png
+   strings: 
+   - ':globe_with_meridians:'
+- 
+   name: world_map
+   location: assets/Travel & Places/world_map.png
+   strings: 
+   - ':world_map:'
+- 
+   name: japan
+   location: assets/Travel & Places/japan.png
+   strings: 
+   - ':japan:'
+- 
+   name: compass
+   location: assets/Travel & Places/compass.png
+   strings: 
+   - ':compass:'
+- 
+   name: snow_capped_mountain
+   location: assets/Travel & Places/snow_capped_mountain.png
+   strings: 
+   - ':snow_capped_mountain:'
+- 
+   name: mountain
+   location: assets/Travel & Places/mountain.png
+   strings: 
+   - ':mountain:'
+- 
+   name: volcano
+   location: assets/Travel & Places/volcano.png
+   strings: 
+   - ':volcano:'
+- 
+   name: mount_fuji
+   location: assets/Travel & Places/mount_fuji.png
+   strings: 
+   - ':mount_fuji:'
+- 
+   name: camping
+   location: assets/Travel & Places/camping.png
+   strings: 
+   - ':camping:'
+- 
+   name: beach_with_umbrella
+   location: assets/Travel & Places/beach_with_umbrella.png
+   strings: 
+   - ':beach_with_umbrella:'
+- 
+   name: desert
+   location: assets/Travel & Places/desert.png
+   strings: 
+   - ':desert:'
+- 
+   name: desert_island
+   location: assets/Travel & Places/desert_island.png
+   strings: 
+   - ':desert_island:'
+- 
+   name: national_park
+   location: assets/Travel & Places/national_park.png
+   strings: 
+   - ':national_park:'
+- 
+   name: stadium
+   location: assets/Travel & Places/stadium.png
+   strings: 
+   - ':stadium:'
+- 
+   name: classical_building
+   location: assets/Travel & Places/classical_building.png
+   strings: 
+   - ':classical_building:'
+- 
+   name: building_construction
+   location: assets/Travel & Places/building_construction.png
+   strings: 
+   - ':building_construction:'
+- 
+   name: bricks
+   location: assets/Travel & Places/bricks.png
+   strings: 
+   - ':bricks:'
+- 
+   name: rock
+   location: assets/Travel & Places/rock.png
+   strings: 
+   - ':rock:'
+- 
+   name: wood
+   location: assets/Travel & Places/wood.png
+   strings: 
+   - ':wood:'
+- 
+   name: hut
+   location: assets/Travel & Places/hut.png
+   strings: 
+   - ':hut:'
+- 
+   name: house_buildings
+   location: assets/Travel & Places/house_buildings.png
+   strings: 
+   - ':house_buildings:'
+- 
+   name: derelict_house_building
+   location: assets/Travel & Places/derelict_house_building.png
+   strings: 
+   - ':derelict_house_building:'
+- 
+   name: house
+   location: assets/Travel & Places/house.png
+   strings: 
+   - ':house:'
+- 
+   name: house_with_garden
+   location: assets/Travel & Places/house_with_garden.png
+   strings: 
+   - ':house_with_garden:'
+- 
+   name: office
+   location: assets/Travel & Places/office.png
+   strings: 
+   - ':office:'
+- 
+   name: post_office
+   location: assets/Travel & Places/post_office.png
+   strings: 
+   - ':post_office:'
+- 
+   name: european_post_office
+   location: assets/Travel & Places/european_post_office.png
+   strings: 
+   - ':european_post_office:'
+- 
+   name: hospital
+   location: assets/Travel & Places/hospital.png
+   strings: 
+   - ':hospital:'
+- 
+   name: bank
+   location: assets/Travel & Places/bank.png
+   strings: 
+   - ':bank:'
+- 
+   name: hotel
+   location: assets/Travel & Places/hotel.png
+   strings: 
+   - ':hotel:'
+- 
+   name: love_hotel
+   location: assets/Travel & Places/love_hotel.png
+   strings: 
+   - ':love_hotel:'
+- 
+   name: convenience_store
+   location: assets/Travel & Places/convenience_store.png
+   strings: 
+   - ':convenience_store:'
+- 
+   name: school
+   location: assets/Travel & Places/school.png
+   strings: 
+   - ':school:'
+- 
+   name: department_store
+   location: assets/Travel & Places/department_store.png
+   strings: 
+   - ':department_store:'
+- 
+   name: factory
+   location: assets/Travel & Places/factory.png
+   strings: 
+   - ':factory:'
+- 
+   name: japanese_castle
+   location: assets/Travel & Places/japanese_castle.png
+   strings: 
+   - ':japanese_castle:'
+- 
+   name: european_castle
+   location: assets/Travel & Places/european_castle.png
+   strings: 
+   - ':european_castle:'
+- 
+   name: wedding
+   location: assets/Travel & Places/wedding.png
+   strings: 
+   - ':wedding:'
+- 
+   name: tokyo_tower
+   location: assets/Travel & Places/tokyo_tower.png
+   strings: 
+   - ':tokyo_tower:'
+- 
+   name: statue_of_liberty
+   location: assets/Travel & Places/statue_of_liberty.png
+   strings: 
+   - ':statue_of_liberty:'
+- 
+   name: church
+   location: assets/Travel & Places/church.png
+   strings: 
+   - ':church:'
+- 
+   name: mosque
+   location: assets/Travel & Places/mosque.png
+   strings: 
+   - ':mosque:'
+- 
+   name: hindu_temple
+   location: assets/Travel & Places/hindu_temple.png
+   strings: 
+   - ':hindu_temple:'
+- 
+   name: synagogue
+   location: assets/Travel & Places/synagogue.png
+   strings: 
+   - ':synagogue:'
+- 
+   name: shinto_shrine
+   location: assets/Travel & Places/shinto_shrine.png
+   strings: 
+   - ':shinto_shrine:'
+- 
+   name: kaaba
+   location: assets/Travel & Places/kaaba.png
+   strings: 
+   - ':kaaba:'
+- 
+   name: fountain
+   location: assets/Travel & Places/fountain.png
+   strings: 
+   - ':fountain:'
+- 
+   name: tent
+   location: assets/Travel & Places/tent.png
+   strings: 
+   - ':tent:'
+- 
+   name: foggy
+   location: assets/Travel & Places/foggy.png
+   strings: 
+   - ':foggy:'
+- 
+   name: night_with_stars
+   location: assets/Travel & Places/night_with_stars.png
+   strings: 
+   - ':night_with_stars:'
+- 
+   name: cityscape
+   location: assets/Travel & Places/cityscape.png
+   strings: 
+   - ':cityscape:'
+- 
+   name: sunrise_over_mountains
+   location: assets/Travel & Places/sunrise_over_mountains.png
+   strings: 
+   - ':sunrise_over_mountains:'
+- 
+   name: sunrise
+   location: assets/Travel & Places/sunrise.png
+   strings: 
+   - ':sunrise:'
+- 
+   name: city_sunset
+   location: assets/Travel & Places/city_sunset.png
+   strings: 
+   - ':city_sunset:'
+- 
+   name: city_sunrise
+   location: assets/Travel & Places/city_sunrise.png
+   strings: 
+   - ':city_sunrise:'
+- 
+   name: bridge_at_night
+   location: assets/Travel & Places/bridge_at_night.png
+   strings: 
+   - ':bridge_at_night:'
+- 
+   name: hotsprings
+   location: assets/Travel & Places/hotsprings.png
+   strings: 
+   - ':hotsprings:'
+- 
+   name: carousel_horse
+   location: assets/Travel & Places/carousel_horse.png
+   strings: 
+   - ':carousel_horse:'
+- 
+   name: playground_slide
+   location: assets/Travel & Places/playground_slide.png
+   strings: 
+   - ':playground_slide:'
+- 
+   name: ferris_wheel
+   location: assets/Travel & Places/ferris_wheel.png
+   strings: 
+   - ':ferris_wheel:'
+- 
+   name: roller_coaster
+   location: assets/Travel & Places/roller_coaster.png
+   strings: 
+   - ':roller_coaster:'
+- 
+   name: barber
+   location: assets/Travel & Places/barber.png
+   strings: 
+   - ':barber:'
+- 
+   name: circus_tent
+   location: assets/Travel & Places/circus_tent.png
+   strings: 
+   - ':circus_tent:'
+- 
+   name: steam_locomotive
+   location: assets/Travel & Places/steam_locomotive.png
+   strings: 
+   - ':steam_locomotive:'
+- 
+   name: railway_car
+   location: assets/Travel & Places/railway_car.png
+   strings: 
+   - ':railway_car:'
+- 
+   name: bullettrain_side
+   location: assets/Travel & Places/bullettrain_side.png
+   strings: 
+   - ':bullettrain_side:'
+- 
+   name: bullettrain_front
+   location: assets/Travel & Places/bullettrain_front.png
+   strings: 
+   - ':bullettrain_front:'
+- 
+   name: train2
+   location: assets/Travel & Places/train2.png
+   strings: 
+   - ':train2:'
+- 
+   name: metro
+   location: assets/Travel & Places/metro.png
+   strings: 
+   - ':metro:'
+- 
+   name: light_rail
+   location: assets/Travel & Places/light_rail.png
+   strings: 
+   - ':light_rail:'
+- 
+   name: station
+   location: assets/Travel & Places/station.png
+   strings: 
+   - ':station:'
+- 
+   name: tram
+   location: assets/Travel & Places/tram.png
+   strings: 
+   - ':tram:'
+- 
+   name: monorail
+   location: assets/Travel & Places/monorail.png
+   strings: 
+   - ':monorail:'
+- 
+   name: mountain_railway
+   location: assets/Travel & Places/mountain_railway.png
+   strings: 
+   - ':mountain_railway:'
+- 
+   name: train
+   location: assets/Travel & Places/train.png
+   strings: 
+   - ':train:'
+- 
+   name: bus
+   location: assets/Travel & Places/bus.png
+   strings: 
+   - ':bus:'
+- 
+   name: oncoming_bus
+   location: assets/Travel & Places/oncoming_bus.png
+   strings: 
+   - ':oncoming_bus:'
+- 
+   name: trolleybus
+   location: assets/Travel & Places/trolleybus.png
+   strings: 
+   - ':trolleybus:'
+- 
+   name: minibus
+   location: assets/Travel & Places/minibus.png
+   strings: 
+   - ':minibus:'
+- 
+   name: ambulance
+   location: assets/Travel & Places/ambulance.png
+   strings: 
+   - ':ambulance:'
+- 
+   name: fire_engine
+   location: assets/Travel & Places/fire_engine.png
+   strings: 
+   - ':fire_engine:'
+- 
+   name: police_car
+   location: assets/Travel & Places/police_car.png
+   strings: 
+   - ':police_car:'
+- 
+   name: oncoming_police_car
+   location: assets/Travel & Places/oncoming_police_car.png
+   strings: 
+   - ':oncoming_police_car:'
+- 
+   name: taxi
+   location: assets/Travel & Places/taxi.png
+   strings: 
+   - ':taxi:'
+- 
+   name: oncoming_taxi
+   location: assets/Travel & Places/oncoming_taxi.png
+   strings: 
+   - ':oncoming_taxi:'
+- 
+   name: car
+   location: assets/Travel & Places/car.png
+   strings: 
+   - ':car:'
+   - ':red_car:'
+- 
+   name: oncoming_automobile
+   location: assets/Travel & Places/oncoming_automobile.png
+   strings: 
+   - ':oncoming_automobile:'
+- 
+   name: blue_car
+   location: assets/Travel & Places/blue_car.png
+   strings: 
+   - ':blue_car:'
+- 
+   name: pickup_truck
+   location: assets/Travel & Places/pickup_truck.png
+   strings: 
+   - ':pickup_truck:'
+- 
+   name: truck
+   location: assets/Travel & Places/truck.png
+   strings: 
+   - ':truck:'
+- 
+   name: articulated_lorry
+   location: assets/Travel & Places/articulated_lorry.png
+   strings: 
+   - ':articulated_lorry:'
+- 
+   name: tractor
+   location: assets/Travel & Places/tractor.png
+   strings: 
+   - ':tractor:'
+- 
+   name: racing_car
+   location: assets/Travel & Places/racing_car.png
+   strings: 
+   - ':racing_car:'
+- 
+   name: racing_motorcycle
+   location: assets/Travel & Places/racing_motorcycle.png
+   strings: 
+   - ':racing_motorcycle:'
+- 
+   name: motor_scooter
+   location: assets/Travel & Places/motor_scooter.png
+   strings: 
+   - ':motor_scooter:'
+- 
+   name: manual_wheelchair
+   location: assets/Travel & Places/manual_wheelchair.png
+   strings: 
+   - ':manual_wheelchair:'
+- 
+   name: motorized_wheelchair
+   location: assets/Travel & Places/motorized_wheelchair.png
+   strings: 
+   - ':motorized_wheelchair:'
+- 
+   name: auto_rickshaw
+   location: assets/Travel & Places/auto_rickshaw.png
+   strings: 
+   - ':auto_rickshaw:'
+- 
+   name: bike
+   location: assets/Travel & Places/bike.png
+   strings: 
+   - ':bike:'
+- 
+   name: scooter
+   location: assets/Travel & Places/scooter.png
+   strings: 
+   - ':scooter:'
+- 
+   name: skateboard
+   location: assets/Travel & Places/skateboard.png
+   strings: 
+   - ':skateboard:'
+- 
+   name: roller_skate
+   location: assets/Travel & Places/roller_skate.png
+   strings: 
+   - ':roller_skate:'
+- 
+   name: busstop
+   location: assets/Travel & Places/busstop.png
+   strings: 
+   - ':busstop:'
+- 
+   name: motorway
+   location: assets/Travel & Places/motorway.png
+   strings: 
+   - ':motorway:'
+- 
+   name: railway_track
+   location: assets/Travel & Places/railway_track.png
+   strings: 
+   - ':railway_track:'
+- 
+   name: oil_drum
+   location: assets/Travel & Places/oil_drum.png
+   strings: 
+   - ':oil_drum:'
+- 
+   name: fuelpump
+   location: assets/Travel & Places/fuelpump.png
+   strings: 
+   - ':fuelpump:'
+- 
+   name: wheel
+   location: assets/Travel & Places/wheel.png
+   strings: 
+   - ':wheel:'
+- 
+   name: rotating_light
+   location: assets/Travel & Places/rotating_light.png
+   strings: 
+   - ':rotating_light:'
+- 
+   name: traffic_light
+   location: assets/Travel & Places/traffic_light.png
+   strings: 
+   - ':traffic_light:'
+- 
+   name: vertical_traffic_light
+   location: assets/Travel & Places/vertical_traffic_light.png
+   strings: 
+   - ':vertical_traffic_light:'
+- 
+   name: octagonal_sign
+   location: assets/Travel & Places/octagonal_sign.png
+   strings: 
+   - ':octagonal_sign:'
+- 
+   name: construction
+   location: assets/Travel & Places/construction.png
+   strings: 
+   - ':construction:'
+- 
+   name: anchor
+   location: assets/Travel & Places/anchor.png
+   strings: 
+   - ':anchor:'
+- 
+   name: ring_buoy
+   location: assets/Travel & Places/ring_buoy.png
+   strings: 
+   - ':ring_buoy:'
+- 
+   name: boat
+   location: assets/Travel & Places/boat.png
+   strings: 
+   - ':boat:'
+   - ':sailboat:'
+- 
+   name: canoe
+   location: assets/Travel & Places/canoe.png
+   strings: 
+   - ':canoe:'
+- 
+   name: speedboat
+   location: assets/Travel & Places/speedboat.png
+   strings: 
+   - ':speedboat:'
+- 
+   name: passenger_ship
+   location: assets/Travel & Places/passenger_ship.png
+   strings: 
+   - ':passenger_ship:'
+- 
+   name: ferry
+   location: assets/Travel & Places/ferry.png
+   strings: 
+   - ':ferry:'
+- 
+   name: motor_boat
+   location: assets/Travel & Places/motor_boat.png
+   strings: 
+   - ':motor_boat:'
+- 
+   name: ship
+   location: assets/Travel & Places/ship.png
+   strings: 
+   - ':ship:'
+- 
+   name: airplane
+   location: assets/Travel & Places/airplane.png
+   strings: 
+   - ':airplane:'
+- 
+   name: small_airplane
+   location: assets/Travel & Places/small_airplane.png
+   strings: 
+   - ':small_airplane:'
+- 
+   name: airplane_departure
+   location: assets/Travel & Places/airplane_departure.png
+   strings: 
+   - ':airplane_departure:'
+- 
+   name: airplane_arriving
+   location: assets/Travel & Places/airplane_arriving.png
+   strings: 
+   - ':airplane_arriving:'
+- 
+   name: parachute
+   location: assets/Travel & Places/parachute.png
+   strings: 
+   - ':parachute:'
+- 
+   name: seat
+   location: assets/Travel & Places/seat.png
+   strings: 
+   - ':seat:'
+- 
+   name: helicopter
+   location: assets/Travel & Places/helicopter.png
+   strings: 
+   - ':helicopter:'
+- 
+   name: suspension_railway
+   location: assets/Travel & Places/suspension_railway.png
+   strings: 
+   - ':suspension_railway:'
+- 
+   name: mountain_cableway
+   location: assets/Travel & Places/mountain_cableway.png
+   strings: 
+   - ':mountain_cableway:'
+- 
+   name: aerial_tramway
+   location: assets/Travel & Places/aerial_tramway.png
+   strings: 
+   - ':aerial_tramway:'
+- 
+   name: satellite
+   location: assets/Travel & Places/satellite.png
+   strings: 
+   - ':satellite:'
+- 
+   name: rocket
+   location: assets/Travel & Places/rocket.png
+   strings: 
+   - ':rocket:'
+- 
+   name: flying_saucer
+   location: assets/Travel & Places/flying_saucer.png
+   strings: 
+   - ':flying_saucer:'
+- 
+   name: bellhop_bell
+   location: assets/Travel & Places/bellhop_bell.png
+   strings: 
+   - ':bellhop_bell:'
+- 
+   name: luggage
+   location: assets/Travel & Places/luggage.png
+   strings: 
+   - ':luggage:'
+- 
+   name: hourglass
+   location: assets/Travel & Places/hourglass.png
+   strings: 
+   - ':hourglass:'
+- 
+   name: hourglass_flowing_sand
+   location: assets/Travel & Places/hourglass_flowing_sand.png
+   strings: 
+   - ':hourglass_flowing_sand:'
+- 
+   name: watch
+   location: assets/Travel & Places/watch.png
+   strings: 
+   - ':watch:'
+- 
+   name: alarm_clock
+   location: assets/Travel & Places/alarm_clock.png
+   strings: 
+   - ':alarm_clock:'
+- 
+   name: stopwatch
+   location: assets/Travel & Places/stopwatch.png
+   strings: 
+   - ':stopwatch:'
+- 
+   name: timer_clock
+   location: assets/Travel & Places/timer_clock.png
+   strings: 
+   - ':timer_clock:'
+- 
+   name: mantelpiece_clock
+   location: assets/Travel & Places/mantelpiece_clock.png
+   strings: 
+   - ':mantelpiece_clock:'
+- 
+   name: clock12
+   location: assets/Travel & Places/clock12.png
+   strings: 
+   - ':clock12:'
+- 
+   name: clock1230
+   location: assets/Travel & Places/clock1230.png
+   strings: 
+   - ':clock1230:'
+- 
+   name: clock1
+   location: assets/Travel & Places/clock1.png
+   strings: 
+   - ':clock1:'
+- 
+   name: clock130
+   location: assets/Travel & Places/clock130.png
+   strings: 
+   - ':clock130:'
+- 
+   name: clock2
+   location: assets/Travel & Places/clock2.png
+   strings: 
+   - ':clock2:'
+- 
+   name: clock230
+   location: assets/Travel & Places/clock230.png
+   strings: 
+   - ':clock230:'
+- 
+   name: clock3
+   location: assets/Travel & Places/clock3.png
+   strings: 
+   - ':clock3:'
+- 
+   name: clock330
+   location: assets/Travel & Places/clock330.png
+   strings: 
+   - ':clock330:'
+- 
+   name: clock4
+   location: assets/Travel & Places/clock4.png
+   strings: 
+   - ':clock4:'
+- 
+   name: clock430
+   location: assets/Travel & Places/clock430.png
+   strings: 
+   - ':clock430:'
+- 
+   name: clock5
+   location: assets/Travel & Places/clock5.png
+   strings: 
+   - ':clock5:'
+- 
+   name: clock530
+   location: assets/Travel & Places/clock530.png
+   strings: 
+   - ':clock530:'
+- 
+   name: clock6
+   location: assets/Travel & Places/clock6.png
+   strings: 
+   - ':clock6:'
+- 
+   name: clock630
+   location: assets/Travel & Places/clock630.png
+   strings: 
+   - ':clock630:'
+- 
+   name: clock7
+   location: assets/Travel & Places/clock7.png
+   strings: 
+   - ':clock7:'
+- 
+   name: clock730
+   location: assets/Travel & Places/clock730.png
+   strings: 
+   - ':clock730:'
+- 
+   name: clock8
+   location: assets/Travel & Places/clock8.png
+   strings: 
+   - ':clock8:'
+- 
+   name: clock830
+   location: assets/Travel & Places/clock830.png
+   strings: 
+   - ':clock830:'
+- 
+   name: clock9
+   location: assets/Travel & Places/clock9.png
+   strings: 
+   - ':clock9:'
+- 
+   name: clock930
+   location: assets/Travel & Places/clock930.png
+   strings: 
+   - ':clock930:'
+- 
+   name: clock10
+   location: assets/Travel & Places/clock10.png
+   strings: 
+   - ':clock10:'
+- 
+   name: clock1030
+   location: assets/Travel & Places/clock1030.png
+   strings: 
+   - ':clock1030:'
+- 
+   name: clock11
+   location: assets/Travel & Places/clock11.png
+   strings: 
+   - ':clock11:'
+- 
+   name: clock1130
+   location: assets/Travel & Places/clock1130.png
+   strings: 
+   - ':clock1130:'
+- 
+   name: new_moon
+   location: assets/Travel & Places/new_moon.png
+   strings: 
+   - ':new_moon:'
+- 
+   name: waxing_crescent_moon
+   location: assets/Travel & Places/waxing_crescent_moon.png
+   strings: 
+   - ':waxing_crescent_moon:'
+- 
+   name: first_quarter_moon
+   location: assets/Travel & Places/first_quarter_moon.png
+   strings: 
+   - ':first_quarter_moon:'
+- 
+   name: moon
+   location: assets/Travel & Places/moon.png
+   strings: 
+   - ':moon:'
+   - ':waxing_gibbous_moon:'
+- 
+   name: full_moon
+   location: assets/Travel & Places/full_moon.png
+   strings: 
+   - ':full_moon:'
+- 
+   name: waning_gibbous_moon
+   location: assets/Travel & Places/waning_gibbous_moon.png
+   strings: 
+   - ':waning_gibbous_moon:'
+- 
+   name: last_quarter_moon
+   location: assets/Travel & Places/last_quarter_moon.png
+   strings: 
+   - ':last_quarter_moon:'
+- 
+   name: waning_crescent_moon
+   location: assets/Travel & Places/waning_crescent_moon.png
+   strings: 
+   - ':waning_crescent_moon:'
+- 
+   name: crescent_moon
+   location: assets/Travel & Places/crescent_moon.png
+   strings: 
+   - ':crescent_moon:'
+- 
+   name: new_moon_with_face
+   location: assets/Travel & Places/new_moon_with_face.png
+   strings: 
+   - ':new_moon_with_face:'
+- 
+   name: first_quarter_moon_with_face
+   location: assets/Travel & Places/first_quarter_moon_with_face.png
+   strings: 
+   - ':first_quarter_moon_with_face:'
+- 
+   name: last_quarter_moon_with_face
+   location: assets/Travel & Places/last_quarter_moon_with_face.png
+   strings: 
+   - ':last_quarter_moon_with_face:'
+- 
+   name: thermometer
+   location: assets/Travel & Places/thermometer.png
+   strings: 
+   - ':thermometer:'
+- 
+   name: sunny
+   location: assets/Travel & Places/sunny.png
+   strings: 
+   - ':sunny:'
+- 
+   name: full_moon_with_face
+   location: assets/Travel & Places/full_moon_with_face.png
+   strings: 
+   - ':full_moon_with_face:'
+- 
+   name: sun_with_face
+   location: assets/Travel & Places/sun_with_face.png
+   strings: 
+   - ':sun_with_face:'
+- 
+   name: ringed_planet
+   location: assets/Travel & Places/ringed_planet.png
+   strings: 
+   - ':ringed_planet:'
+- 
+   name: star
+   location: assets/Travel & Places/star.png
+   strings: 
+   - ':star:'
+- 
+   name: star2
+   location: assets/Travel & Places/star2.png
+   strings: 
+   - ':star2:'
+- 
+   name: stars
+   location: assets/Travel & Places/stars.png
+   strings: 
+   - ':stars:'
+- 
+   name: milky_way
+   location: assets/Travel & Places/milky_way.png
+   strings: 
+   - ':milky_way:'
+- 
+   name: cloud
+   location: assets/Travel & Places/cloud.png
+   strings: 
+   - ':cloud:'
+- 
+   name: partly_sunny
+   location: assets/Travel & Places/partly_sunny.png
+   strings: 
+   - ':partly_sunny:'
+- 
+   name: thunder_cloud_and_rain
+   location: assets/Travel & Places/thunder_cloud_and_rain.png
+   strings: 
+   - ':thunder_cloud_and_rain:'
+- 
+   name: mostly_sunny
+   location: assets/Travel & Places/mostly_sunny.png
+   strings: 
+   - ':mostly_sunny:'
+   - ':sun_small_cloud:'
+- 
+   name: barely_sunny
+   location: assets/Travel & Places/barely_sunny.png
+   strings: 
+   - ':barely_sunny:'
+   - ':sun_behind_cloud:'
+- 
+   name: partly_sunny_rain
+   location: assets/Travel & Places/partly_sunny_rain.png
+   strings: 
+   - ':partly_sunny_rain:'
+   - ':sun_behind_rain_cloud:'
+- 
+   name: rain_cloud
+   location: assets/Travel & Places/rain_cloud.png
+   strings: 
+   - ':rain_cloud:'
+- 
+   name: snow_cloud
+   location: assets/Travel & Places/snow_cloud.png
+   strings: 
+   - ':snow_cloud:'
+- 
+   name: lightning
+   location: assets/Travel & Places/lightning.png
+   strings: 
+   - ':lightning:'
+   - ':lightning_cloud:'
+- 
+   name: tornado
+   location: assets/Travel & Places/tornado.png
+   strings: 
+   - ':tornado:'
+   - ':tornado_cloud:'
+- 
+   name: fog
+   location: assets/Travel & Places/fog.png
+   strings: 
+   - ':fog:'
+- 
+   name: wind_blowing_face
+   location: assets/Travel & Places/wind_blowing_face.png
+   strings: 
+   - ':wind_blowing_face:'
+- 
+   name: cyclone
+   location: assets/Travel & Places/cyclone.png
+   strings: 
+   - ':cyclone:'
+- 
+   name: rainbow
+   location: assets/Travel & Places/rainbow.png
+   strings: 
+   - ':rainbow:'
+- 
+   name: closed_umbrella
+   location: assets/Travel & Places/closed_umbrella.png
+   strings: 
+   - ':closed_umbrella:'
+- 
+   name: umbrella
+   location: assets/Travel & Places/umbrella.png
+   strings: 
+   - ':umbrella:'
+- 
+   name: umbrella_with_rain_drops
+   location: assets/Travel & Places/umbrella_with_rain_drops.png
+   strings: 
+   - ':umbrella_with_rain_drops:'
+- 
+   name: umbrella_on_ground
+   location: assets/Travel & Places/umbrella_on_ground.png
+   strings: 
+   - ':umbrella_on_ground:'
+- 
+   name: zap
+   location: assets/Travel & Places/zap.png
+   strings: 
+   - ':zap:'
+- 
+   name: snowflake
+   location: assets/Travel & Places/snowflake.png
+   strings: 
+   - ':snowflake:'
+- 
+   name: snowman
+   location: assets/Travel & Places/snowman.png
+   strings: 
+   - ':snowman:'
+- 
+   name: snowman_without_snow
+   location: assets/Travel & Places/snowman_without_snow.png
+   strings: 
+   - ':snowman_without_snow:'
+- 
+   name: comet
+   location: assets/Travel & Places/comet.png
+   strings: 
+   - ':comet:'
+- 
+   name: fire
+   location: assets/Travel & Places/fire.png
+   strings: 
+   - ':fire:'
+- 
+   name: droplet
+   location: assets/Travel & Places/droplet.png
+   strings: 
+   - ':droplet:'
+- 
+   name: ocean
+   location: assets/Travel & Places/ocean.png
+   strings: 
+   - ':ocean:'

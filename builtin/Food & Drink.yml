@@ -1,0 +1,667 @@
+- 
+   name: grapes
+   location: assets/Food & Drink/grapes.png
+   strings: 
+   - ':grapes:'
+- 
+   name: melon
+   location: assets/Food & Drink/melon.png
+   strings: 
+   - ':melon:'
+- 
+   name: watermelon
+   location: assets/Food & Drink/watermelon.png
+   strings: 
+   - ':watermelon:'
+- 
+   name: tangerine
+   location: assets/Food & Drink/tangerine.png
+   strings: 
+   - ':tangerine:'
+- 
+   name: lemon
+   location: assets/Food & Drink/lemon.png
+   strings: 
+   - ':lemon:'
+- 
+   name: banana
+   location: assets/Food & Drink/banana.png
+   strings: 
+   - ':banana:'
+- 
+   name: pineapple
+   location: assets/Food & Drink/pineapple.png
+   strings: 
+   - ':pineapple:'
+- 
+   name: mango
+   location: assets/Food & Drink/mango.png
+   strings: 
+   - ':mango:'
+- 
+   name: apple
+   location: assets/Food & Drink/apple.png
+   strings: 
+   - ':apple:'
+- 
+   name: green_apple
+   location: assets/Food & Drink/green_apple.png
+   strings: 
+   - ':green_apple:'
+- 
+   name: pear
+   location: assets/Food & Drink/pear.png
+   strings: 
+   - ':pear:'
+- 
+   name: peach
+   location: assets/Food & Drink/peach.png
+   strings: 
+   - ':peach:'
+- 
+   name: cherries
+   location: assets/Food & Drink/cherries.png
+   strings: 
+   - ':cherries:'
+- 
+   name: strawberry
+   location: assets/Food & Drink/strawberry.png
+   strings: 
+   - ':strawberry:'
+- 
+   name: blueberries
+   location: assets/Food & Drink/blueberries.png
+   strings: 
+   - ':blueberries:'
+- 
+   name: kiwifruit
+   location: assets/Food & Drink/kiwifruit.png
+   strings: 
+   - ':kiwifruit:'
+- 
+   name: tomato
+   location: assets/Food & Drink/tomato.png
+   strings: 
+   - ':tomato:'
+- 
+   name: olive
+   location: assets/Food & Drink/olive.png
+   strings: 
+   - ':olive:'
+- 
+   name: coconut
+   location: assets/Food & Drink/coconut.png
+   strings: 
+   - ':coconut:'
+- 
+   name: avocado
+   location: assets/Food & Drink/avocado.png
+   strings: 
+   - ':avocado:'
+- 
+   name: eggplant
+   location: assets/Food & Drink/eggplant.png
+   strings: 
+   - ':eggplant:'
+- 
+   name: potato
+   location: assets/Food & Drink/potato.png
+   strings: 
+   - ':potato:'
+- 
+   name: carrot
+   location: assets/Food & Drink/carrot.png
+   strings: 
+   - ':carrot:'
+- 
+   name: corn
+   location: assets/Food & Drink/corn.png
+   strings: 
+   - ':corn:'
+- 
+   name: hot_pepper
+   location: assets/Food & Drink/hot_pepper.png
+   strings: 
+   - ':hot_pepper:'
+- 
+   name: bell_pepper
+   location: assets/Food & Drink/bell_pepper.png
+   strings: 
+   - ':bell_pepper:'
+- 
+   name: cucumber
+   location: assets/Food & Drink/cucumber.png
+   strings: 
+   - ':cucumber:'
+- 
+   name: leafy_green
+   location: assets/Food & Drink/leafy_green.png
+   strings: 
+   - ':leafy_green:'
+- 
+   name: broccoli
+   location: assets/Food & Drink/broccoli.png
+   strings: 
+   - ':broccoli:'
+- 
+   name: garlic
+   location: assets/Food & Drink/garlic.png
+   strings: 
+   - ':garlic:'
+- 
+   name: onion
+   location: assets/Food & Drink/onion.png
+   strings: 
+   - ':onion:'
+- 
+   name: peanuts
+   location: assets/Food & Drink/peanuts.png
+   strings: 
+   - ':peanuts:'
+- 
+   name: beans
+   location: assets/Food & Drink/beans.png
+   strings: 
+   - ':beans:'
+- 
+   name: chestnut
+   location: assets/Food & Drink/chestnut.png
+   strings: 
+   - ':chestnut:'
+- 
+   name: ginger_root
+   location: assets/Food & Drink/ginger_root.png
+   strings: 
+   - ':ginger_root:'
+- 
+   name: pea_pod
+   location: assets/Food & Drink/pea_pod.png
+   strings: 
+   - ':pea_pod:'
+- 
+   name: bread
+   location: assets/Food & Drink/bread.png
+   strings: 
+   - ':bread:'
+- 
+   name: croissant
+   location: assets/Food & Drink/croissant.png
+   strings: 
+   - ':croissant:'
+- 
+   name: baguette_bread
+   location: assets/Food & Drink/baguette_bread.png
+   strings: 
+   - ':baguette_bread:'
+- 
+   name: flatbread
+   location: assets/Food & Drink/flatbread.png
+   strings: 
+   - ':flatbread:'
+- 
+   name: pretzel
+   location: assets/Food & Drink/pretzel.png
+   strings: 
+   - ':pretzel:'
+- 
+   name: bagel
+   location: assets/Food & Drink/bagel.png
+   strings: 
+   - ':bagel:'
+- 
+   name: pancakes
+   location: assets/Food & Drink/pancakes.png
+   strings: 
+   - ':pancakes:'
+- 
+   name: waffle
+   location: assets/Food & Drink/waffle.png
+   strings: 
+   - ':waffle:'
+- 
+   name: cheese_wedge
+   location: assets/Food & Drink/cheese_wedge.png
+   strings: 
+   - ':cheese_wedge:'
+- 
+   name: meat_on_bone
+   location: assets/Food & Drink/meat_on_bone.png
+   strings: 
+   - ':meat_on_bone:'
+- 
+   name: poultry_leg
+   location: assets/Food & Drink/poultry_leg.png
+   strings: 
+   - ':poultry_leg:'
+- 
+   name: cut_of_meat
+   location: assets/Food & Drink/cut_of_meat.png
+   strings: 
+   - ':cut_of_meat:'
+- 
+   name: bacon
+   location: assets/Food & Drink/bacon.png
+   strings: 
+   - ':bacon:'
+- 
+   name: hamburger
+   location: assets/Food & Drink/hamburger.png
+   strings: 
+   - ':hamburger:'
+- 
+   name: fries
+   location: assets/Food & Drink/fries.png
+   strings: 
+   - ':fries:'
+- 
+   name: pizza
+   location: assets/Food & Drink/pizza.png
+   strings: 
+   - ':pizza:'
+- 
+   name: hotdog
+   location: assets/Food & Drink/hotdog.png
+   strings: 
+   - ':hotdog:'
+- 
+   name: sandwich
+   location: assets/Food & Drink/sandwich.png
+   strings: 
+   - ':sandwich:'
+- 
+   name: taco
+   location: assets/Food & Drink/taco.png
+   strings: 
+   - ':taco:'
+- 
+   name: burrito
+   location: assets/Food & Drink/burrito.png
+   strings: 
+   - ':burrito:'
+- 
+   name: tamale
+   location: assets/Food & Drink/tamale.png
+   strings: 
+   - ':tamale:'
+- 
+   name: stuffed_flatbread
+   location: assets/Food & Drink/stuffed_flatbread.png
+   strings: 
+   - ':stuffed_flatbread:'
+- 
+   name: falafel
+   location: assets/Food & Drink/falafel.png
+   strings: 
+   - ':falafel:'
+- 
+   name: egg
+   location: assets/Food & Drink/egg.png
+   strings: 
+   - ':egg:'
+- 
+   name: fried_egg
+   location: assets/Food & Drink/fried_egg.png
+   strings: 
+   - ':fried_egg:'
+   - ':cooking:'
+- 
+   name: shallow_pan_of_food
+   location: assets/Food & Drink/shallow_pan_of_food.png
+   strings: 
+   - ':shallow_pan_of_food:'
+- 
+   name: stew
+   location: assets/Food & Drink/stew.png
+   strings: 
+   - ':stew:'
+- 
+   name: fondue
+   location: assets/Food & Drink/fondue.png
+   strings: 
+   - ':fondue:'
+- 
+   name: bowl_with_spoon
+   location: assets/Food & Drink/bowl_with_spoon.png
+   strings: 
+   - ':bowl_with_spoon:'
+- 
+   name: green_salad
+   location: assets/Food & Drink/green_salad.png
+   strings: 
+   - ':green_salad:'
+- 
+   name: popcorn
+   location: assets/Food & Drink/popcorn.png
+   strings: 
+   - ':popcorn:'
+- 
+   name: butter
+   location: assets/Food & Drink/butter.png
+   strings: 
+   - ':butter:'
+- 
+   name: salt
+   location: assets/Food & Drink/salt.png
+   strings: 
+   - ':salt:'
+- 
+   name: canned_food
+   location: assets/Food & Drink/canned_food.png
+   strings: 
+   - ':canned_food:'
+- 
+   name: bento
+   location: assets/Food & Drink/bento.png
+   strings: 
+   - ':bento:'
+- 
+   name: rice_cracker
+   location: assets/Food & Drink/rice_cracker.png
+   strings: 
+   - ':rice_cracker:'
+- 
+   name: rice_ball
+   location: assets/Food & Drink/rice_ball.png
+   strings: 
+   - ':rice_ball:'
+- 
+   name: rice
+   location: assets/Food & Drink/rice.png
+   strings: 
+   - ':rice:'
+- 
+   name: curry
+   location: assets/Food & Drink/curry.png
+   strings: 
+   - ':curry:'
+- 
+   name: ramen
+   location: assets/Food & Drink/ramen.png
+   strings: 
+   - ':ramen:'
+- 
+   name: spaghetti
+   location: assets/Food & Drink/spaghetti.png
+   strings: 
+   - ':spaghetti:'
+- 
+   name: sweet_potato
+   location: assets/Food & Drink/sweet_potato.png
+   strings: 
+   - ':sweet_potato:'
+- 
+   name: oden
+   location: assets/Food & Drink/oden.png
+   strings: 
+   - ':oden:'
+- 
+   name: sushi
+   location: assets/Food & Drink/sushi.png
+   strings: 
+   - ':sushi:'
+- 
+   name: fried_shrimp
+   location: assets/Food & Drink/fried_shrimp.png
+   strings: 
+   - ':fried_shrimp:'
+- 
+   name: fish_cake
+   location: assets/Food & Drink/fish_cake.png
+   strings: 
+   - ':fish_cake:'
+- 
+   name: moon_cake
+   location: assets/Food & Drink/moon_cake.png
+   strings: 
+   - ':moon_cake:'
+- 
+   name: dango
+   location: assets/Food & Drink/dango.png
+   strings: 
+   - ':dango:'
+- 
+   name: dumpling
+   location: assets/Food & Drink/dumpling.png
+   strings: 
+   - ':dumpling:'
+- 
+   name: fortune_cookie
+   location: assets/Food & Drink/fortune_cookie.png
+   strings: 
+   - ':fortune_cookie:'
+- 
+   name: takeout_box
+   location: assets/Food & Drink/takeout_box.png
+   strings: 
+   - ':takeout_box:'
+- 
+   name: crab
+   location: assets/Food & Drink/crab.png
+   strings: 
+   - ':crab:'
+- 
+   name: lobster
+   location: assets/Food & Drink/lobster.png
+   strings: 
+   - ':lobster:'
+- 
+   name: shrimp
+   location: assets/Food & Drink/shrimp.png
+   strings: 
+   - ':shrimp:'
+- 
+   name: squid
+   location: assets/Food & Drink/squid.png
+   strings: 
+   - ':squid:'
+- 
+   name: oyster
+   location: assets/Food & Drink/oyster.png
+   strings: 
+   - ':oyster:'
+- 
+   name: icecream
+   location: assets/Food & Drink/icecream.png
+   strings: 
+   - ':icecream:'
+- 
+   name: shaved_ice
+   location: assets/Food & Drink/shaved_ice.png
+   strings: 
+   - ':shaved_ice:'
+- 
+   name: ice_cream
+   location: assets/Food & Drink/ice_cream.png
+   strings: 
+   - ':ice_cream:'
+- 
+   name: doughnut
+   location: assets/Food & Drink/doughnut.png
+   strings: 
+   - ':doughnut:'
+- 
+   name: cookie
+   location: assets/Food & Drink/cookie.png
+   strings: 
+   - ':cookie:'
+- 
+   name: birthday
+   location: assets/Food & Drink/birthday.png
+   strings: 
+   - ':birthday:'
+- 
+   name: cake
+   location: assets/Food & Drink/cake.png
+   strings: 
+   - ':cake:'
+- 
+   name: cupcake
+   location: assets/Food & Drink/cupcake.png
+   strings: 
+   - ':cupcake:'
+- 
+   name: pie
+   location: assets/Food & Drink/pie.png
+   strings: 
+   - ':pie:'
+- 
+   name: chocolate_bar
+   location: assets/Food & Drink/chocolate_bar.png
+   strings: 
+   - ':chocolate_bar:'
+- 
+   name: candy
+   location: assets/Food & Drink/candy.png
+   strings: 
+   - ':candy:'
+- 
+   name: lollipop
+   location: assets/Food & Drink/lollipop.png
+   strings: 
+   - ':lollipop:'
+- 
+   name: custard
+   location: assets/Food & Drink/custard.png
+   strings: 
+   - ':custard:'
+- 
+   name: honey_pot
+   location: assets/Food & Drink/honey_pot.png
+   strings: 
+   - ':honey_pot:'
+- 
+   name: baby_bottle
+   location: assets/Food & Drink/baby_bottle.png
+   strings: 
+   - ':baby_bottle:'
+- 
+   name: glass_of_milk
+   location: assets/Food & Drink/glass_of_milk.png
+   strings: 
+   - ':glass_of_milk:'
+- 
+   name: coffee
+   location: assets/Food & Drink/coffee.png
+   strings: 
+   - ':coffee:'
+- 
+   name: teapot
+   location: assets/Food & Drink/teapot.png
+   strings: 
+   - ':teapot:'
+- 
+   name: tea
+   location: assets/Food & Drink/tea.png
+   strings: 
+   - ':tea:'
+- 
+   name: sake
+   location: assets/Food & Drink/sake.png
+   strings: 
+   - ':sake:'
+- 
+   name: champagne
+   location: assets/Food & Drink/champagne.png
+   strings: 
+   - ':champagne:'
+- 
+   name: wine_glass
+   location: assets/Food & Drink/wine_glass.png
+   strings: 
+   - ':wine_glass:'
+- 
+   name: cocktail
+   location: assets/Food & Drink/cocktail.png
+   strings: 
+   - ':cocktail:'
+- 
+   name: tropical_drink
+   location: assets/Food & Drink/tropical_drink.png
+   strings: 
+   - ':tropical_drink:'
+- 
+   name: beer
+   location: assets/Food & Drink/beer.png
+   strings: 
+   - ':beer:'
+- 
+   name: beers
+   location: assets/Food & Drink/beers.png
+   strings: 
+   - ':beers:'
+- 
+   name: clinking_glasses
+   location: assets/Food & Drink/clinking_glasses.png
+   strings: 
+   - ':clinking_glasses:'
+- 
+   name: tumbler_glass
+   location: assets/Food & Drink/tumbler_glass.png
+   strings: 
+   - ':tumbler_glass:'
+- 
+   name: pouring_liquid
+   location: assets/Food & Drink/pouring_liquid.png
+   strings: 
+   - ':pouring_liquid:'
+- 
+   name: cup_with_straw
+   location: assets/Food & Drink/cup_with_straw.png
+   strings: 
+   - ':cup_with_straw:'
+- 
+   name: bubble_tea
+   location: assets/Food & Drink/bubble_tea.png
+   strings: 
+   - ':bubble_tea:'
+- 
+   name: beverage_box
+   location: assets/Food & Drink/beverage_box.png
+   strings: 
+   - ':beverage_box:'
+- 
+   name: mate_drink
+   location: assets/Food & Drink/mate_drink.png
+   strings: 
+   - ':mate_drink:'
+- 
+   name: ice_cube
+   location: assets/Food & Drink/ice_cube.png
+   strings: 
+   - ':ice_cube:'
+- 
+   name: chopsticks
+   location: assets/Food & Drink/chopsticks.png
+   strings: 
+   - ':chopsticks:'
+- 
+   name: knife_fork_plate
+   location: assets/Food & Drink/knife_fork_plate.png
+   strings: 
+   - ':knife_fork_plate:'
+- 
+   name: fork_and_knife
+   location: assets/Food & Drink/fork_and_knife.png
+   strings: 
+   - ':fork_and_knife:'
+- 
+   name: spoon
+   location: assets/Food & Drink/spoon.png
+   strings: 
+   - ':spoon:'
+- 
+   name: hocho
+   location: assets/Food & Drink/hocho.png
+   strings: 
+   - ':hocho:'
+   - ':knife:'
+- 
+   name: jar
+   location: assets/Food & Drink/jar.png
+   strings: 
+   - ':jar:'
+- 
+   name: amphora
+   location: assets/Food & Drink/amphora.png
+   strings: 
+   - ':amphora:'
